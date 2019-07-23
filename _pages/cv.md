@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio/CV"
+title: "Short Bio/Professional CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -57,4 +57,14 @@ Invited Journal Reviewers
 
 Research Interests
 ======
-MEMS, MEMS Sensors, High Resolution Accelerometers, MEMS Resonators, High-performance Analog Circuits, Analog & Digital Integrated Circuits
+* Microelectromechanical Systems (MEMS)
+  * MEMS Sensors
+    * High Resolution Accelerometers
+    * High Resolution Resonant Sensors
+    * MEMS Sensors Based on New Phenomena
+  * MEMS Resonators
+* High-performance Analog Circuits
+  * High-performance Control Circuits
+  * Analog & Digital Integrated Circuits
+  * Noise & Stability Analysis
+* Control Techniques   
