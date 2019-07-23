@@ -1,7 +1,7 @@
 ---
 title: " A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor "
 collection: publications
-permalink: /publication/2019-01-resonantacchigh
+permalink: /publications/2019-01-resonantacchigh
 date: 2019-1-24
 venue: 'IEEE Conference on Microelectromechanical Systems, 2019'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
