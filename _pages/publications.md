@@ -6,13 +6,19 @@ author_profile: true
 
 ## Resonant Accelerometers
 
-<b>[A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor](https://czhao1987.github.io/publications/2019-06-resonantacc)</b> <br>
+[J] <b>[A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor](https://czhao1987.github.io/publications/2019-06-resonantacc)</b> <br>
 <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Philipp Steinmann, Arif Mustafazade, Xudong Zou, Ashwin Seshia.
 <i>IEEE Journal of Microelectromechanical Systems</i>. 	Vol. 28 Iss. 3, 2019.
 
-<b>[An Ultra-high Resolution Resonant MEMS Accelerometer](https://czhao1987.github.io/publications/2019-01-resonantacchigh)</b> <br>
+[C] <b>[An Ultra-high Resolution Resonant MEMS Accelerometer](https://czhao1987.github.io/publications/2019-01-resonantacchigh)</b> <br>
 Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, and Ashwin Seshia.
 <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.
+
+## Mode-localized Sensors
+[J] <b>[ Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications ](https://czhao1987.github.io/publications/2019-04-nonlinearmd)</b> <br>
+Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.
+<i>IEEE Journal of Microelectromechanical Systems</i>. 	Vol. 28 Iss. 2, 2019.
+
 
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
 Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
