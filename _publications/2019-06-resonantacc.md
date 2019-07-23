@@ -1,5 +1,5 @@
 ---
-title: " A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor "
+title: " A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz1/2 Noise Floor "
 collection: publications
 permalink: /publication/2019-06-resonantacc
 date: 2019-06
