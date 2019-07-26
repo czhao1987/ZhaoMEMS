@@ -12,7 +12,7 @@ Welcome to Dr. Chun Zhao's website!
 ======
 
 ![WordCould](/images/WordCould.png)  <br>
-#### * Word cloud accurate as of July 2019.
+###### * Word cloud accurate as of July 2019.
 <!-- ![3DoFDevice](/images/3DoFDevice.png)  <br> -->
 
 
@@ -27,5 +27,5 @@ My research
 
 My research interests are mainly micro-electro-mechanical systems (MEMS) based precision sensors. A micro-electro-mechanical system consists of a movable micro-scale device (the thinniest part of the device can be a few times thinner than a human hair), low noise electronics (as the signal on these tiny devices is generally very tiny), and some measurement circuits to measure the output. So I am interested in all the systems here, from the fabrication techniues to make the micro-scale devices, to the associated precision electronics. To know more about my research, feel free to browse this website.
 
-![3DoFDevice](/images/3DoFDevice.png)  <br> -->
-#### * A micro device in reality. Courtesy to Prof. Chang's group at NPU, 2013
+![3DoFDevice](/images/3DoFDevice.png)  <br>
+###### * A micro device in reality. Courtesy to Prof. Chang's group at NPU, 2013
