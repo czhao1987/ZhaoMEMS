@@ -12,6 +12,7 @@ Welcome to Dr. Chun Zhao's website!
 ======
 
 ![3DoFDevice](/images/3DoFDevice.png)
+Courtesy to NPU, picture taken in 2013.
 
 For more info
 ------
