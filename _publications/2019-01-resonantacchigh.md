@@ -10,4 +10,4 @@ venue: 'IEEE Conference on Microelectromechanical Systems, 2019'
 
 ## Abstract
 This paper shows the first implementation of a micro-fabricated resonant accelerometer with a noise floor of 17.8ng/Hz<sup>1/2</sup> and a bias stability of 17.5ng with a differential frequency readout configuration. The differential readout scheme provides for rejection of common mode environmental effects to first order. This prototype sensor demonstrates the best bias stability and noise floor of all MEMS resonant accelerometer configurations reported till date. <br />
-[<span style="color:red">(Not yet available, stay tuned for the updates on the paper url!)</span>]
+[<span style="color:red">(Link not yet available, stay tuned for the updates on the paper url!)</span>]

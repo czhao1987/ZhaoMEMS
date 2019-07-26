@@ -15,9 +15,21 @@ Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong 
 <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.
 
 ## Mode-localized Sensors
+[J] <b>[ A High Resolution Dierential Mode-localized MEMS Accelerometer ](https://czhao1987.github.io/publications/2019-07-diffmdxl)</b> <br>
+Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Ashwin Seshia.
+<i>IEEE Journal of Microelectromechanical Systems</i>. 	accepted, 2019.
+
+[J] <b>[ Practical Limits to Common Mode Rejection in Mode Localized Weakly Coupled Resonators ](https://czhao1987.github.io/publications/2019-07-commonmodemdxl)</b> <br>
+Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin Seshia.
+<i>IEEE Sensors Journal</i>. 	in press, 2019.
+
 [J] <b>[ Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications ](https://czhao1987.github.io/publications/2019-04-nonlinearmd)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.
 <i>IEEE Journal of Microelectromechanical Systems</i>. 	Vol. 28 Iss. 2, 2019.
+
+[C] <b>[ Immunity to Temperature Fluctuations in Weakly Coupled MEMS Resonators ](https://czhao1987.github.io/publications/2018-11-mdsensorcommon)</b> <br>
+Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin Seshia.
+<i>IEEE Sensors Conference 2018</i>. 	2018.
 
 
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
