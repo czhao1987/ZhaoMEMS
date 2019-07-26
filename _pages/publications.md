@@ -15,7 +15,7 @@ Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong 
 <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.
 
 ## Mode-localized Sensors
-[J] <b>[ A High Resolution Dierential Mode-localized MEMS Accelerometer ](https://czhao1987.github.io/publications/2019-07-diffmdxl)</b> <br>
+[J] <b>[ A High Resolution Differential Mode-localized MEMS Accelerometer ](https://czhao1987.github.io/publications/2019-07-diffmdxl)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Ashwin Seshia.
 <i>IEEE Journal of Microelectromechanical Systems</i>. 	accepted, 2019.
 
