@@ -8,7 +8,7 @@ author_profile: true
 
 [J] <b>[A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor](https://czhao1987.github.io/publications/2019-06-resonantacc)</b> <br>
 <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Philipp Steinmann, Arif Mustafazade, Xudong Zou, Ashwin Seshia.
-<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28 Iss. 3, 2019.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28, Iss. 3, 2019.
 
 [C] <b>[An Ultra-high Resolution Resonant MEMS Accelerometer](https://czhao1987.github.io/publications/2019-01-resonantacchigh)</b> <br>
 Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, and Ashwin Seshia.
@@ -29,11 +29,11 @@ Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin Seshia.
 
 [J] <b>[Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications](https://czhao1987.github.io/publications/2019-04-nonlinearmd)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.
-<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28 Iss. 2, 2019.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28, Iss. 2, 2019.
 
 [J] <b>[Closed-loop Characterization of Noise and Stability in a Mode-localized Resonant MEMS Sensor](https://czhao1987.github.io/publications/2018-10-closedloopj)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia.
-<i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>. Vol. 66 Iss. 1, 2018.
+<i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>. Vol. 66, Iss. 1, 2018.
 
 [J] <b>[A Mass Sensor Based on 3-DOF Mode Localized Coupled Resonator under Atmospheric Pressure](https://czhao1987.github.io/publications/2018-06-mdmass3dof)</b> <br>
 Yuan Wang, <b>Chun Zhao</b>, Chen Wang, Delphine Cerica, Mathieu Baijot, Qijun Xiao, Serguei Stoukatch, Michael Kraft.
@@ -43,6 +43,53 @@ Yuan Wang, <b>Chun Zhao</b>, Chen Wang, Delphine Cerica, Mathieu Baijot, Qijun X
 <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia.
 <i>Applied Physics Letters</i>. Vol. 112, 194103, 2018.
 
+[J] <b>[A Closed-Loop Readout Configuration for Mode-Localized Resonant MEMS Sensors](https://czhao1987.github.io/publications/2017-04-mdsensorclosedloop)</b> <br>
+<b>Chun Zhao</b>, Milind Pandit, Boqian Sun, Guillermo Sobreviela, Xudong Zou, Ashwin Seshia.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 26, Iss. 3, 2017.
+
+[J] <b>[A Mass Sensor Based on 3-DOF Mode Localized Coupled Resonator under Atmospheric Pressure](https://czhao1987.github.io/publications/2016-10-mdreview)</b> <br>
+<b>Chun Zhao</b>, Mohammad H Montaseri, Graham S Wood, Suan Hui Pu, Ashwin A Seshia, Michael Kraft.
+<i>Sensors and Actuators A: Physical</i>. Vol. 249, 2016.
+
+[J] <b>[An Investigation of Structural Dimension Variation in Electrostatically Coupled MEMS Resonator Pairs Using Mode Localization](https://czhao1987.github.io/publications/2016-12-mdstructural)</b> <br>
+Graham S Wood, <b>Chun Zhao</b>, Suan Hui Pu, Ibrahim Sari, Michael Kraft.
+<i>IEEE Sensors Journal</i>. Vol. 16, Iss. 24, 2016.
+
+[J] <b>[A Comparative Study of Output Metrics for an MEMS Resonant Sensor Consisting of Three Weakly Coupled Resonators](https://czhao1987.github.io/publications/2016-06-mdsensoroutput)</b> <br>
+<b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 25, Iss. 4, 2016.
+
+[J] <b>[Mass Sensor Utilising the Mode-localisation Effect in An Electrostatically-coupled MEMS Resonator Pair Fabricated Using An SOI Process](https://czhao1987.github.io/publications/2016-06-mdmass2df)</b> <br>
+Graham S Wood, <b>Chun Zhao</b>, Suan Hui Pu, Stuart A Boden, Ibrahim Sari, Michael Kraft.
+<i>Microelectronic Engineering</i>. Vol. 159, 2016.
+
+[J] <b>[A Three Degree-of-Freedom Weakly Coupled Resonator Sensor With Enhanced Stiffness Sensitivity](https://czhao1987.github.io/publications/2016-06-mdsensor3dof)</b> <br>
+<b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 25, Iss. 1, 2016.
+
+[J] <b>[A Force Sensor Based on Three Weakly Coupled Resonators with Ultrahigh Sensitivity](https://czhao1987.github.io/publications/2015-08-mdforcesensor)</b> <br>
+<b>Chun Zhao</b>, Graham S Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft.
+<i>Sensors and Actuators A: Physical</i>. Vol. 232, 2015.
+
+## MEMS Nonlinear Resonators
+
+[J] <b>[Parametric Noise Reduction in A High-order Nonlinear MEMS Resonator Utilizing Its Bifurcation Points](https://czhao1987.github.io/publications/2017-12-5thordernonlinear)</b> <br>
+Guillermo Sobreviela, <b>Chun Zhao</b>, Milind Pandit, Cuong Do, Sijun Du, Xudong Zou, Ashwin Seshia.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 26, Iss. 6, 2017.
+
+[J] <b>[Parametric Noise Reduction in A High-order Nonlinear MEMS Resonator Utilizing Its Bifurcation Points](https://czhao1987.github.io/publications/2017-12-nonlinearamplitude)</b> <br>
+<b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Sijun Du, Xudong Zou, Ashwin Seshia.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 26, Iss. 6, 2017.
+
+## Energy Harvestors
+
+[J] <b>[A Fully-integrated Split-electrode SSHC Rectifier for Piezoelectric Energy Harvesting](https://czhao1987.github.io/publications/2019-06-SSHCRectifier)</b> <br>
+Sijun Du, Yu Jia, <b>Chun Zhao</b>, Gehan A. J. Amaratunga, Ashwin A. Seshia.
+<i>IEEE Journal of Solid-State Circuits</i>. Vol. 54, Iss. 6, 2019.
+
+[J] <b>[A Passive Design Scheme to Increase the Rectified Power of Piezoelectric Energy Harvesters](https://czhao1987.github.io/publications/2018-09-PassiveDesignScheme)</b> <br>
+Sijun Du, Yu Jia, <b>Chun Zhao</b>, Gehan A. J. Amaratunga, Ashwin A. Seshia.
+<i>IEEE Transactions on Industrial Electronics</i>. Vol. 65, Iss. 9, 2018.
 
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
 Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
