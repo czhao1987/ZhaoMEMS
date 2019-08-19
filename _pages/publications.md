@@ -77,7 +77,7 @@ Graham S Wood, <b>Chun Zhao</b>, Suan Hui Pu, Stuart A Boden, Ibrahim Sari, Mich
 Guillermo Sobreviela, <b>Chun Zhao</b>, Milind Pandit, Cuong Do, Sijun Du, Xudong Zou, Ashwin Seshia.
 <i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 26, Iss. 6, 2017.
 
-[J] <b>[Parametric Noise Reduction in A High-order Nonlinear MEMS Resonator Utilizing Its Bifurcation Points](https://czhao1987.github.io/publications/2017-12-nonlinearamplitude)</b> <br>
+[J] <b>[Experimental Observation of Noise Reduction in Weakly Coupled Nonlinear MEMS Resonators](https://czhao1987.github.io/publications/2017-12-nonlinearamplitude)</b> <br>
 <b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Sijun Du, Xudong Zou, Ashwin Seshia.
 <i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 26, Iss. 6, 2017.
 
