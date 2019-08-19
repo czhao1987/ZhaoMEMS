@@ -8,28 +8,40 @@ author_profile: true
 
 [J] <b>[A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor](https://czhao1987.github.io/publications/2019-06-resonantacc)</b> <br>
 <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Philipp Steinmann, Arif Mustafazade, Xudong Zou, Ashwin Seshia.
-<i>IEEE Journal of Microelectromechanical Systems</i>. 	Vol. 28 Iss. 3, 2019.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28 Iss. 3, 2019.
 
 [C] <b>[An Ultra-high Resolution Resonant MEMS Accelerometer](https://czhao1987.github.io/publications/2019-01-resonantacchigh)</b> <br>
 Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, and Ashwin Seshia.
 <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.
 
 ## Mode-localized Sensors
-[J] <b>[ A High Resolution Differential Mode-localized MEMS Accelerometer ](https://czhao1987.github.io/publications/2019-07-diffmdxl)</b> <br>
+[J] <b>[Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators](https://czhao1987.github.io/publications/2019-08-pemdrxl)</b> <br>
+<b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, and Ashwin Seshia.
+<i>Physical Review Applied</i>. accepted, 2019.
+
+[J] <b>[A High Resolution Differential Mode-localized MEMS Accelerometer](https://czhao1987.github.io/publications/2019-07-diffmdxl)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Ashwin Seshia.
-<i>IEEE Journal of Microelectromechanical Systems</i>. 	accepted, 2019.
+<i>IEEE Journal of Microelectromechanical Systems</i>. in press, 2019.
 
-[J] <b>[ Practical Limits to Common Mode Rejection in Mode Localized Weakly Coupled Resonators ](https://czhao1987.github.io/publications/2019-07-commonmodemdxl)</b> <br>
+[J] <b>[Practical Limits to Common Mode Rejection in Mode Localized Weakly Coupled Resonators](https://czhao1987.github.io/publications/2019-07-commonmodemdxl)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin Seshia.
-<i>IEEE Sensors Journal</i>. 	in press, 2019.
+<i>IEEE Sensors Journal</i>. in press, 2019.
 
-[J] <b>[ Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications ](https://czhao1987.github.io/publications/2019-04-nonlinearmd)</b> <br>
+[J] <b>[Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications](https://czhao1987.github.io/publications/2019-04-nonlinearmd)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.
-<i>IEEE Journal of Microelectromechanical Systems</i>. 	Vol. 28 Iss. 2, 2019.
+<i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28 Iss. 2, 2019.
 
-[C] <b>[ Immunity to Temperature Fluctuations in Weakly Coupled MEMS Resonators ](https://czhao1987.github.io/publications/2018-11-mdsensorcommon)</b> <br>
-Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin Seshia.
-<i>IEEE Sensors Conference 2018</i>. 	2018.
+[J] <b>[Closed-loop Characterization of Noise and Stability in a Mode-localized Resonant MEMS Sensor](https://czhao1987.github.io/publications/2018-10-closedloopj)</b> <br>
+Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia.
+<i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>. Vol. 66 Iss. 1, 2018.
+
+[J] <b>[A Mass Sensor Based on 3-DOF Mode Localized Coupled Resonator under Atmospheric Pressure](https://czhao1987.github.io/publications/2018-06-mdmass3dof)</b> <br>
+Yuan Wang, <b>Chun Zhao</b>, Chen Wang, Delphine Cerica, Mathieu Baijot, Qijun Xiao, Serguei Stoukatch, Michael Kraft.
+<i>Sensors and Actuators A: Physical</i>. Vol. 279, 2018.
+
+[J] <b>[On the Noise Optimization of Resonant MEMS Sensors Utilizing Vibration Mode Localization](https://czhao1987.github.io/publications/2018-05-mdsensornoise)</b> <br>
+<b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia.
+<i>Applied Physics Letters</i>. Vol. 112, 194103, 2018.
 
 
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
