@@ -91,6 +91,14 @@ Sijun Du, Yu Jia, <b>Chun Zhao</b>, Gehan A. J. Amaratunga, Ashwin A. Seshia.
 Sijun Du, Yu Jia, <b>Chun Zhao</b>, Gehan A. J. Amaratunga, Ashwin A. Seshia.
 <i>IEEE Transactions on Industrial Electronics</i>. Vol. 65, Iss. 9, 2018.
 
+[J] <b>[Real-world Evaluation of A Self-startup SSHI Rectifier for Piezoelectric Vibration Energy Harvesting](https://czhao1987.github.io/publications/2017-09-realevaluation)</b> <br>
+Sijun Du, Yu Jia, <b>Chun Zhao</b>, Shao-Tuan Chen, Ashwin A Seshia.
+<i>Sensors and Actuators A: Physical</i>. Vol. 264, 2017.
+
+[J] <b>[A New Electrode Design Method in Piezoelectric Vibration Energy Harvesters to Maximize Output Power](https://czhao1987.github.io/publications/2017-08-newelectrode)</b> <br>
+Sijun Du, Yu Jia, Shao-Tuan Chen, <b>Chun Zhao</b>, Boqian Sun, Emmanuelle Arroyo, Ashwin A Seshia.
+<i>Sensors and Actuators A: Physical</i>. Vol. 263, 2017.
+
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
 Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
 
