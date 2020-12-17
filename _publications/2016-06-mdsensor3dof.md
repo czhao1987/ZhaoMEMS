@@ -1,5 +1,5 @@
 ---
-title: "  A Three Degree-of-Freedom Weakly Coupled Resonator Sensor With Enhanced Stiffness Sensitivity  "
+title: " A Three Degree-of-Freedom Weakly Coupled Resonator Sensor With Enhanced Stiffness Sensitivity "
 collection: publications
 permalink: /publications/2016-06-mdsensor3dof
 date: 2016-02-1
