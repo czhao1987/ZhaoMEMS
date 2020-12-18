@@ -29,7 +29,7 @@ Research grants
 * <b>High resolution resonant MEMS sensors</b>, PI:
   * Start-up grant, HUST, 2019KFYXJJS157
   * ¥500k (approx. €63k)
-* <b>Nonlinear eects for high-performance silicon resonant sensors</b>, Co-I:
+* <b>Nonlinear effects for high-performance silicon resonant sensors</b>, Co-I:
   * Ministry of Science and Technology, China, 2018YFB2002301
   * ¥2.3M (approx. €290k)
 * <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I:
