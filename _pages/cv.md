@@ -11,27 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Measurement and Control Technology & Instruments, <b>Huazhong University of Science and Technology (HUST)</b>, <i>Wuhan, China</i>, 2009
-* M.Sc. in Analog and Digital Integrated Circuits Design, <b>Imperial College London</b>, <i>London, UK</i>, 2011
-* Ph.D in Micro-electro-mechanical Systems (MEMS), <b>University of Southampton</b>, <i>Southampton, UK</i>, 2016
+* Sep. 2005 - Jun. 2009: B.Eng. in Measurement and Control Technology & Instruments, <b>Huazhong University of Science and Technology (HUST)</b>, <i>Wuhan, China</i>
+* Oct. 2009 - Sep. 2010: M.Sc. in Analog and Digital Integrated Circuits Design, <b>Imperial College London</b>, <i>London, UK</i>
+* Jul. 2011 - Mar. 2015: Ph.D in Micro-electro-mechanical Systems (MEMS), <b>University of Southampton</b>, <i>Southampton, UK</i>
 
 Work experience
 ======
-* April 2015 - March 2016: Research Scientist, <b>Sharp Laboratories of Europe</b>, <i>Oxford, UK</i>
-  * Research focus: Acoustic MEMS Devices, Thin-film Transistor Circuits
+* Apr. 2015 - Mar. 2016: Research Scientist, <b>Sharp Laboratories of Europe</b>, <i>Oxford, UK</i>
+  * Research focus: Acoustic MEMS devices, thin-film transistor (TFT) circuits
 
-* April 2016 - August 2018: Research Associate in MEMS, <b>University of Cambirdge</b>, <i>Cambridge, UK</i>
-  * Research focus: Resonant MEMS Accelerometers, Mode-localized MEMS Accelerometers, Low-noise Front-end Electronics
+* Apr. 2016 - Aug. 2018: Research Associate in MEMS, <b>University of Cambirdge</b>, <i>Cambridge, UK</i>
+  * Research focus: Resonant MEMS accelerometers, mode-localized MEMS accelerometers, low-noise front-end electronics, nonlinear dynamics
+
+* Sep. 2018 - Present: Associate Professor, <b>HUST</b>, <i>Wuhan, China</i>
+  * Research focus: Resonant MEMS sensors, low-noise analog electronics, nonlinear dynamics, modal interactions, new device materials, symmetry
 
 Research grants
 ======
-* <b>High resolution resonant MEMS sensors</b>, PI:
+* Jan. 2019 - Dec. 2021: <b>High resolution resonant MEMS sensors</b>, PI:
   * Start-up grant, HUST, 2019KFYXJJS157
   * ¥500k (approx. €63k)
-* <b>Nonlinear effects for high-performance silicon resonant sensors</b>, Co-I:
+* Jul. 2019 - Jun. 2022: <b>Nonlinear effects for high-performance silicon resonant sensors</b>, Co-I:
   * Ministry of Science and Technology, China, 2018YFB2002301
   * ¥2.3M (approx. €290k)
-* <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I:
+* Jan. 2020 - Dec. 2024: <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I:
   * National Natural Science Foundation of China, 11927812
   * ¥5.95M (approx. €750k)
 
@@ -55,14 +58,14 @@ Academic services
   * <i>Czech Science Foundation</i>, 2020
 
 * External PhD examiner
-  * <i>Grith University, Australia<i>, 2019
+  * <i>Griffth University, Australia<i>, 2019
 
 * Invited conference reviewer
   * <i>International Conference of the Chinese Society of Micro-Nano Technology (CSMNT)<i>, 2019-
-<!-- Research Interests
-======
-* Microelectromechanical Systems (MEMS)
-  * MEMS Sensors
+<!-- Research Interests-->
+<!--======-->
+<!--* Microelectromechanical Systems (MEMS)-->
+<!--  * MEMS Sensors
     * High Resolution Accelerometers
     * High Resolution Resonant Sensors
     * MEMS Sensors Based on New Phenomena
