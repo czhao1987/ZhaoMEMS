@@ -23,37 +23,35 @@ Work experience
 * April 2016 - August 2018: Research Associate in MEMS, <b>University of Cambirdge</b>, <i>Cambridge, UK</i>
   * Research focus: Resonant MEMS Accelerometers, Mode-localized MEMS Accelerometers, Low-noise Front-end Electronics
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Talks
+Research grants
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* <i>High resolution resonant MEMS sensors<i> (2019KFYXJJS157, Start-up grant, HUST), ¥500k (approx. &euro 63k), <b>PI</b>;
+* <i>Nonlinear eects for high-performance silicon resonant sensors<i> (2018YFB2002301, Ministry of Science and Technology, China), ¥2.3M (approx. &euro 290k), <b>Co-I</b>;
+* <i>Micro-newton thrusters for space-borne gravitational wave detection<i> (11927812, National Natural Science Foundation of China), ¥500k (approx. &euro 63k), <b>Co-I</b>;
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Academic Services
 ======
 
-Invited Journal Reviewers
+Invited Journal Reviewer
 ------
 * <i>Elsevier Sensors & Actuators A: Physical</i>, 2016 -
 * <i>IEEE Journal of Microelectromechanical Systems</i>, 2017 -
 * <i>Nature Microsystems & Nanoengineering</i>, 2017 -
 * <i>MDPI Sensors</i>, 2017 -
 * <i>MDPI Micromachines</i>, 2017 -
+* <i>IEEE Sensors Journal</i>, 2018 -
 * <i>AIP Advances</i>, 2018 -
 * <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>, 2019 -
 * <i>AIP Applied Physics Letters</i>, 2019 -
+* <i>IEEE Transactions on Industrial Electronics</i>, 2019 -
+* <i>IEEE Transactions on Circuits and Systems I</i>, 2020 -
+* <i>Physica D: Nonlinear Phenomena</i>, 2020 -
+
+Invited Grant Reviewer
+------
+* <i>Czech Science Foundation</i>, 2020
 
 Research Interests
 ======
