@@ -26,9 +26,15 @@ Work experience
 
 Research grants
 ======
-* <i>High resolution resonant MEMS sensors<i> (2019KFYXJJS157, Start-up grant, HUST), ¥500k (approx. &euro 63k), <b>PI</b>;
-* <i>Nonlinear eects for high-performance silicon resonant sensors<i> (2018YFB2002301, Ministry of Science and Technology, China), ¥2.3M (approx. &euro 290k), <b>Co-I</b>;
-* <i>Micro-newton thrusters for space-borne gravitational wave detection<i> (11927812, National Natural Science Foundation of China), ¥500k (approx. &euro 63k), <b>Co-I</b>;
+* <b>High resolution resonant MEMS sensors</b>, PI:
+  * Start-up grant, HUST, 2019KFYXJJS157
+  * ¥500k (approx. €63k)
+* <b>Nonlinear eects for high-performance silicon resonant sensors</b>, Co-I:
+  * Ministry of Science and Technology, China, 2018YFB2002301
+  * ¥2.3M (approx. €290k)
+* <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I:
+  * National Natural Science Foundation of China, 11927812
+  * ¥500k (approx. €63k)
 
 
 Academic Services
