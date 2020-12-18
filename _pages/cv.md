@@ -23,7 +23,6 @@ Work experience
 * April 2016 - August 2018: Research Associate in MEMS, <b>University of Cambirdge</b>, <i>Cambridge, UK</i>
   * Research focus: Resonant MEMS Accelerometers, Mode-localized MEMS Accelerometers, Low-noise Front-end Electronics
 
-
 Research grants
 ======
 * <b>High resolution resonant MEMS sensors</b>, PI:
@@ -34,32 +33,33 @@ Research grants
   * ¥2.3M (approx. €290k)
 * <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I:
   * National Natural Science Foundation of China, 11927812
-  * ¥500k (approx. €63k)
+  * ¥5.95M (approx. €750k)
 
-
-Academic Services
+Academic services
 ======
+* Invited journal reviewer
+  * <i>Elsevier Sensors & Actuators A: Physical</i>, 2016 -
+  * <i>IEEE Journal of Microelectromechanical Systems</i>, 2017 -
+  * <i>Nature Microsystems & Nanoengineering</i>, 2017 -
+  * <i>MDPI Sensors</i>, 2017 -
+  * <i>MDPI Micromachines</i>, 2017 -
+  * <i>IEEE Sensors Journal</i>, 2018 -
+  * <i>AIP Advances</i>, 2018 -
+  * <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>, 2019 -
+  * <i>AIP Applied Physics Letters</i>, 2019 -
+  * <i>IEEE Transactions on Industrial Electronics</i>, 2019 -
+  * <i>IEEE Transactions on Circuits and Systems I</i>, 2020 -
+  * <i>Physica D: Nonlinear Phenomena</i>, 2020 -
 
-Invited Journal Reviewer
-------
-* <i>Elsevier Sensors & Actuators A: Physical</i>, 2016 -
-* <i>IEEE Journal of Microelectromechanical Systems</i>, 2017 -
-* <i>Nature Microsystems & Nanoengineering</i>, 2017 -
-* <i>MDPI Sensors</i>, 2017 -
-* <i>MDPI Micromachines</i>, 2017 -
-* <i>IEEE Sensors Journal</i>, 2018 -
-* <i>AIP Advances</i>, 2018 -
-* <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>, 2019 -
-* <i>AIP Applied Physics Letters</i>, 2019 -
-* <i>IEEE Transactions on Industrial Electronics</i>, 2019 -
-* <i>IEEE Transactions on Circuits and Systems I</i>, 2020 -
-* <i>Physica D: Nonlinear Phenomena</i>, 2020 -
+* Invited grant reviewer
+  * <i>Czech Science Foundation</i>, 2020
 
-Invited Grant Reviewer
-------
-* <i>Czech Science Foundation</i>, 2020
+* External PhD examiner
+  * <i>Grith University, Australia<i>, 2019
 
-Research Interests
+* Invited conference reviewer
+  * <i>International Conference of the Chinese Society of Micro-Nano Technology (CSMNT)<i>, 2019-
+<!-- Research Interests
 ======
 * Microelectromechanical Systems (MEMS)
   * MEMS Sensors
@@ -71,4 +71,4 @@ Research Interests
   * High-performance Control Circuits
   * Analog & Digital Integrated Circuits
   * Noise & Stability Analysis
-* Control Techniques   
+* Control Techniques   -->
