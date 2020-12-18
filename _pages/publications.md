@@ -6,18 +6,38 @@ author_profile: true
 
 ## Resonant Accelerometers
 
-[J] <b>[A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor](https://czhao1987.github.io/publications/2019-06-resonantacc)</b> <br>
+<font color = "Lime">[C]</font> <b>[A MEMS Vibrating Beam Accelerometer for High Resolution Seismometry and Gravimetry](https://www.mems21.org/program/MEMS2021_Program.pdf)</b> <br>
+Guillermo Sobreviela-Falces, Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Callisto Pili, Colin Baker, Ashwin Seshia.
+<i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.
+
+[J] <b>[A Vibrating Beam MEMS Accelerometer for Gravity and Seismic Measurements](https://www.nature.com/articles/s41598-020-67046-x.pdf)</b> <br>
+Arif Mustafazade, Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Zhijun Du, Philipp Steinmann, Xudong Zou, Roger T. Howe, Ashwin Seshia.
+<i>Scientific Reports<i>. 10, Article number: 10415, 2020.
+
+[J] <b>[A Resonant MEMS Accelerometer With 56ng Bias Stability and 98ng/Hz<sup>1/2</sup> Noise Floor](https://ieeexplore.ieee.org/abstract/document/8692386/)</b> <br>
 <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Philipp Steinmann, Arif Mustafazade, Xudong Zou, Ashwin Seshia.
 <i>IEEE Journal of Microelectromechanical Systems</i>. Vol. 28, Iss. 3, 2019.
 
-[C] <b>[An Ultra-high Resolution Resonant MEMS Accelerometer](https://czhao1987.github.io/publications/2019-01-resonantacchigh)</b> <br>
-Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, and Ashwin Seshia.
+[C] <b>[An Ultra-high Resolution Resonant MEMS Accelerometer](https://ieeexplore.ieee.org/abstract/document/8870734)</b> <br>
+Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, Ashwin Seshia.
 <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.
 
+## Modal Interactions
+
+[C] <b>[\A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation](https://www.mems21.org/program/MEMS2021_Program.pdf)</b> <br>
+Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu.
+<i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.
+
+[J] <b>[Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005)</b> <br>
+<b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.
+<i>Physical Review Applied</i>. 12, 044005, 2019.
+
+[J] <b>[Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators](https://www.nature.com/articles/s41467-019-12796-0.pdf)
+Xin Zhou, Chun Zhao, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia.
+<i>Nature Communications</i>. 10, Article number: 4980, 2019.
+
 ## Mode-localized Sensors
-[J] <b>[Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators](https://czhao1987.github.io/publications/2019-08-pemdrxl)</b> <br>
-<b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, and Ashwin Seshia.
-<i>Physical Review Applied</i>. accepted, 2019.
+
 
 [J] <b>[A High Resolution Differential Mode-localized MEMS Accelerometer](https://czhao1987.github.io/publications/2019-07-diffmdxl)</b> <br>
 Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Ashwin Seshia.
