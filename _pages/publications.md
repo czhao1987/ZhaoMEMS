@@ -6,42 +6,43 @@ author_profile: true
 
 ## Modal Interactions
 <details>
-  <summary>Journal papers</summary>
+  <summary><b>Journal papers</b></summary>
 
-  * <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019296"> Amplitude-modulated Resonant Accelerometer Employing Parametric Pump</a>. Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>Applied Physics Letters</i>. 2020.<br>
 
-  * <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>. <b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia. <i>Physical Review Applied</i>. 2019.<br>
+   1. <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019296"> Amplitude-modulated Resonant Accelerometer Employing Parametric Pump</a>. Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>Applied Physics Letters</i>. 2020.<br>
 
-<!--  * <a href=""> </a>. . <i></i>. .<br> -->
+   2. <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>. <b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia. <i>Physical Review Applied</i>. 2019.<br>
 
-  * <a href="https://www.nature.com/articles/s41467-019-12796-0.pdf">Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators</a>. Xin Zhou, <b>Chun Zhao</b>, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia. <i>Nature Communications</i>. 2019.<br>
+   3. <a href="https://www.nature.com/articles/s41467-019-12796-0.pdf">Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators</a>. Xin Zhou, <b>Chun Zhao</b>, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia. <i>Nature Communications</i>. 2019.<br>
+
+   <!--  * <a href=""> </a>. . <i></i>. .<br> -->
 
 </details>
 
 <details>
-  <summary>Conference papers</summary>
+  <summary><b>Conference papers</b></summary>
 
-  * <a href="https://www.mems21.org/program/MEMS2021_Program.pdf">A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation</a>. Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
+  1. <a href="https://www.mems21.org/program/MEMS2021_Program.pdf">A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation</a>. Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
 
 </details>
 
 ## MEMS Nonlinear Resonators
 
 <details>
-  <summary>Journal papers</summary>
+  <summary><b>Journal papers</b></summary>
 
-  * <a href="https://www.mems21.org/program/MEMS2021_Program.pdf">Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2019.<br>
+  1. <a href="https://www.mems21.org/program/MEMS2021_Program.pdf">Utilizing Energy Localization in Weakly Coupled Nonlinear Resonators for Sensing Applications</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2019.<br>
 
-  * <a href="https://ieeexplore.ieee.org/document/8008761">Parametric Noise Reduction in A High-order Nonlinear MEMS Resonator Utilizing Its Bifurcation Points</a>. Guillermo Sobreviela, <b>Chun Zhao</b>, Milind Pandit, Cuong Do, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2017.<br>
+  2. <a href="https://ieeexplore.ieee.org/document/8008761">Parametric Noise Reduction in A High-order Nonlinear MEMS Resonator Utilizing Its Bifurcation Points</a>. Guillermo Sobreviela, <b>Chun Zhao</b>, Milind Pandit, Cuong Do, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2017.<br>
 
-  * <a href="https://ieeexplore.ieee.org/document/8091122">Experimental Observation of Noise Reduction in Weakly Coupled Nonlinear MEMS Resonators</a>. <b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2017.<br>
+  3. <a href="https://ieeexplore.ieee.org/document/8091122">Experimental Observation of Noise Reduction in Weakly Coupled Nonlinear MEMS Resonators</a>. <b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2017.<br>
 
 </details>
 
 <details>
-  <summary>Conference papers</summary>  
+  <summary><b>Conference papers</b></summary>
 
-  * <a href="">On the Sensitivity of Mode-localized Accelerometers Operating in the Nonlinear Duffing Regime</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
+  1. <a href="">On the Sensitivity of Mode-localized Accelerometers Operating in the Nonlinear Duffing Regime</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
 
 </details>
 
