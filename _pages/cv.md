@@ -62,3 +62,14 @@ Academic services
 
 * Invited conference reviewer
   * <i>International Conference of the Chinese Society of Micro-Nano Technology (CSMNT)<i>, 2019-
+
+  # A collapsible section containing markdown
+  <details>
+    <summary>Click to expand!</summary>
+
+    ## Heading
+    1. A numbered
+    2. list
+       * With some
+       * Sub bullets
+  </details>

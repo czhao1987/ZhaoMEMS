@@ -9,6 +9,7 @@ redirect_from:
 
 ## Locations of key files/directories
 
+# A collapsible section containing markdown
 <details>
   <summary>Click to expand!</summary>
 
