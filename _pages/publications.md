@@ -220,7 +220,7 @@ author_profile: true
 
   1. <a href="https://www.mdpi.com/1424-8220/20/14/4054">Micromachined Accelerometers with Sub-µg/√Hz Noise Floor: A Review</a>. Chen Wang, Fang Chen, Yuan Wang, Sina Sadeghpour, Chenxi Wang, Mathieu Baijot, Rui Esteves, <b>Chun Zhao</b>, Jian Bai, Huafeng Liu, Michael Kraft. <i>MDPI Sensors</i>. 2020.<br>
 
-  2. <a href="">A Review on Coupled MEMS Resonators for Sensing Applications Utilizing Mode Localization</a>. Chun Zhao, Mohammad Montaseri, Graham Wood, Suan Hui Pu, Ashwin Seshia, Michael Kraft. <i>Sensors and Actuators A: Physical</i>. 2016.<br>
+  2. <a href="">A Review on Coupled MEMS Resonators for Sensing Applications Utilizing Mode Localization</a>. <b>Chun Zhao</b>, Mohammad Montaseri, Graham Wood, Suan Hui Pu, Ashwin Seshia, Michael Kraft. <i>Sensors and Actuators A: Physical</i>. 2016.<br>
 
 </details>  
 
