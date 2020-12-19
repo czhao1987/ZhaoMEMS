@@ -8,17 +8,17 @@ author_profile: true
 <details>
   <summary>Journal papers</summary>
 
-* [J] <b>[Amplitude-modulated Resonant Accelerometer Employing Parametric Pump](https://aip.scitation.org/doi/abs/10.1063/5.0019296)</b> <br>
-Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia.<br>
-<i>Applied Physics Letters</i>. 2020.
+  * [J] <b>[Amplitude-modulated Resonant Accelerometer Employing Parametric Pump](https://aip.scitation.org/doi/abs/10.1063/5.0019296)</b> <br>
+  Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia.<br>
+  <i>Applied Physics Letters</i>. 2020.
 
-* [J] <b>[Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005)</b> <br>
-<b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.<br>
-<i>Physical Review Applied</i>. 2019.
+  * [J] <b>[Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005)</b> <br>
+  <b>Chun Zhao</b>, Xin Zhou, Milind Pandit, Guillermo Sobreviela, Sijun Du, Xudong Zou, Ashwin Seshia.<br>
+  <i>Physical Review Applied</i>. 2019.
 
-* [J] <b>[Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators](https://www.nature.com/articles/s41467-019-12796-0.pdf)</b> <br>
-Xin Zhou, <b>Chun Zhao</b>, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia.<br>
-<i>Nature Communications</i>. 2019.
+  * [J] <b>[Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators](https://www.nature.com/articles/s41467-019-12796-0.pdf)</b> <br>
+  Xin Zhou, <b>Chun Zhao</b>, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia.<br>
+  <i>Nature Communications</i>. 2019.
 
 </details>
 
