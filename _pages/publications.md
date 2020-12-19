@@ -5,10 +5,8 @@ author_profile: true
 ---
 
 ## Modal Interactions
-
-[C] <b>[A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation](https://www.mems21.org/program/MEMS2021_Program.pdf)</b> <br>
-Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu.<br>
-<i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.
+<details>
+  <summary>Journal papers</summary>
 
 [J] <b>[Amplitude-modulated Resonant Accelerometer Employing Parametric Pump](https://aip.scitation.org/doi/abs/10.1063/5.0019296)</b> <br>
 Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia.<br>
@@ -21,6 +19,17 @@ Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwi
 [J] <b>[Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators](https://www.nature.com/articles/s41467-019-12796-0.pdf)</b> <br>
 Xin Zhou, <b>Chun Zhao</b>, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia.<br>
 <i>Nature Communications</i>. 2019.
+
+</details>
+
+<details>
+  <summary>Conference papers</summary>
+
+[C] <b>[A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation](https://www.mems21.org/program/MEMS2021_Program.pdf)</b> <br>
+Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu.<br>
+<i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.
+
+</details>
 
 ## MEMS Nonlinear Resonators
 

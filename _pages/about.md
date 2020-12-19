@@ -27,7 +27,7 @@ I am currently an academic and researcher in the field of MEMS at [Center for Gr
 ###### * Word cloud accurate as of December 2020.
 <!-- ![3DoFDevice](/images/3DoFDevice.png)  <br> -->
 
-test
+<!--test
 
 # A collapsible section containing markdown
 <details>
@@ -38,7 +38,7 @@ test
   2. list
      * With some
      * Sub bullets
-</details>
+</details>-->
 
 <!-- ![3DoFDevice](/images/3DoFDevice.png)  <br>
 ###### * A micro device in reality. Courtesy to Prof. Chang's group at NPU, 2013 -->
