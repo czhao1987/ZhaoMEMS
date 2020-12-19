@@ -58,7 +58,13 @@ Academic services
   * <i>Czech Science Foundation</i>, 2020
 
 * External PhD examiner
-  * <i>Griffth University, Australia<i>, 2019
+  * <i>Griffth University, Australia</i>, 2019
 
 * Invited conference reviewer
-  * <i>International Conference of the Chinese Society of Micro-Nano Technology (CSMNT)<i>, 2019-
+  * <i>International Conference of the Chinese Society of Micro-Nano Technology (CSMNT)</i>, 2019-
+
+Volunteering
+======
+* IEEE CASS-EDS-SSCS Wuhan Joint Chapter
+  * Volunteer, 2019-
+  * Secretary, 2021-
