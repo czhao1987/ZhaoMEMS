@@ -27,7 +27,12 @@ I am currently an academic and researcher in the field of MEMS at [Center for Gr
 ###### * Word cloud accurate as of December 2020.
 <!-- ![3DoFDevice](/images/3DoFDevice.png)  <br> -->
 
+# A collapsible section containing markdown
+<details>
+  <summary>Click to expand!</summary>
+
   ## Heading
+  1. A numbered
   2. list
      * With some
      * Sub bullets
