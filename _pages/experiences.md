@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Short Bio/Professional CV"
-permalink: /cv/
+title: "Experiences"
+permalink: /experiences/
 author_profile: true
 redirect_from:
   - /resume
