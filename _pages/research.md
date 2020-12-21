@@ -13,7 +13,6 @@ Research projects
 ======
 <p style="text-decoration:underline;"><a href="/modalinteractions.md">Research project 1: modal interactions</a></p>
 
-
 Research grants
 ======
 * Jan. 2020 - Dec. 2024: <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I
