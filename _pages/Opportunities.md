@@ -1,6 +1,6 @@
 ---
 permalink: /Opportunities/
-title: "Markdown"
+title: ""
 author_profile: true
 redirect_from:
   - /md/
