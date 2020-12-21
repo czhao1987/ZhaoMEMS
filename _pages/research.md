@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research experience
+Research projects
 ======
 * Apr. 2015 - Mar. 2016: Research Scientist, <b>Sharp Laboratories of Europe</b>, <i>Oxford, UK</i>
   * Research focus: Acoustic MEMS devices, thin-film transistor (TFT) circuits
