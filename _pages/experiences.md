@@ -19,15 +19,3 @@ Research experience
 
 * Sep. 2018 - Present: Associate Professor, <b>HUST</b>, <i>Wuhan, China</i>
   * Research focus: Resonant MEMS sensors, low-noise analog electronics, nonlinear dynamics, modal interactions, new device materials, symmetry
-
-Research grants
-======
-* Jan. 2020 - Dec. 2024: <b>Micro-newton thrusters for space-borne gravitational wave detection</b>, Co-I
-  * National Natural Science Foundation of China, 11927812
-  * ¥5.95M (approx. €750k)
-* Jul. 2019 - Jun. 2022: <b>Nonlinear effects for high-performance silicon resonant sensors</b>, Co-I
-  * Ministry of Science and Technology, China, 2018YFB2002301
-  * ¥2.3M (approx. €290k)  
-* Jan. 2019 - Dec. 2021: <b>High resolution resonant MEMS sensors</b>, PI
-  * Start-up grant, HUST, 2019KFYXJJS157
-  * ¥500k (approx. €63k)
