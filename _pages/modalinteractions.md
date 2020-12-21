@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Modal Interactions"
-permalink: /talks/modalinteractions
+permalink: /modalinteractions
 author_profile: true
 ---
 
