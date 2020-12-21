@@ -12,18 +12,18 @@ redirect_from:
 Academic services
 ======
 * Invited journal reviewer
-  * <i>Elsevier Sensors & Actuators A: Physical</i>, 2016 -
+  * <i>IEEE Transactions on Circuits and Systems I</i>, 2020 -
+  * <i>Physica D: Nonlinear Phenomena</i>, 2020 -
+  * <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>, 2019 -
+  * <i>AIP Applied Physics Letters</i>, 2019 -
+  * <i>IEEE Transactions on Industrial Electronics</i>, 2019 -
+  * <i>IEEE Sensors Journal</i>, 2018 -
+  * <i>AIP Advances</i>, 2018 -
   * <i>IEEE Journal of Microelectromechanical Systems</i>, 2017 -
   * <i>Nature Microsystems & Nanoengineering</i>, 2017 -
   * <i>MDPI Sensors</i>, 2017 -
   * <i>MDPI Micromachines</i>, 2017 -
-  * <i>IEEE Sensors Journal</i>, 2018 -
-  * <i>AIP Advances</i>, 2018 -
-  * <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>, 2019 -
-  * <i>AIP Applied Physics Letters</i>, 2019 -
-  * <i>IEEE Transactions on Industrial Electronics</i>, 2019 -
-  * <i>IEEE Transactions on Circuits and Systems I</i>, 2020 -
-  * <i>Physica D: Nonlinear Phenomena</i>, 2020 -
+  * <i>Elsevier Sensors & Actuators A: Physical</i>, 2016 -
 
 * Invited grant reviewer
   * <i>Czech Science Foundation</i>, 2020
@@ -37,5 +37,5 @@ Academic services
 Volunteering
 ======
 * IEEE CASS-EDS-SSCS Wuhan Joint Chapter
-  * Volunteer, 2019-
   * Secretary, 2021-
+  * Volunteer, 2019-
