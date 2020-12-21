@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "education"
+    url: /education/
+
+  - title: "experiences"
+    url: /experiences/
+
+  - title: "research"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -17,9 +23,11 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
+  - title: "services"
+    url: /services/
 
   - title: "Opportunities"
-    url: /Opportunities/   
+    url: /Opportunities/
 
 #  - title: "Guide"
 #    url: /markdown/
