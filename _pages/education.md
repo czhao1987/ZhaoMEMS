@@ -11,6 +11,14 @@ redirect_from:
 
 Education
 ======
-* Jul. 2011 - Mar. 2015: Ph.D in MEMS, <b>University of Southampton</b>, <i>Southampton, UK</i>
-* Oct. 2009 - Sep. 2010: M.Sc. in Analog and Digital Integrated Circuits Design, <b>Imperial College London</b>, <i>London, UK</i>
-* Sep. 2005 - Jun. 2009: B.Eng. in Measurement and Control Technology & Instruments, <b>Huazhong University of Science and Technology (HUST)</b>, <i>Wuhan, China</i>
+
+* Jul. 2011 - Mar. 2015: Ph.D. [<b>University of Southampton</b>]
+  * Supervisor: [Michael Kraft](https://www.esat.kuleuven.be/mns/mns_people/michael_kraft) (currently at KU Leuven)
+
+
+* Oct. 2009 - Sep. 2010: M.Sc. [<b>Imperial College London</b>]
+  * Analog and Digital Integrated Circuits Design
+
+
+* Sep. 2005 - Jun. 2009: B.Eng. [<b>Huazhong University of Science and Technology</b>]
+  * Measurement and Control Technology & Instruments

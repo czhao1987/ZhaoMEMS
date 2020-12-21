@@ -11,11 +11,14 @@ redirect_from:
 
 Research experience
 ======
-* Sep. 2018 - Present: Associate Professor, <b>HUST</b>, <i>Wuhan, China</i>
+* Sep. 2018 - Present: Associate Professor [<b>Huazhong University of Science and Technology</b>]
   * Research focus: Resonant MEMS sensors, low-noise analog electronics, nonlinear dynamics, modal interactions, new device materials, symmetry
 
-* Apr. 2016 - Aug. 2018: Research Associate in MEMS, <b>University of Cambirdge</b>, <i>Cambridge, UK</i>
+
+* Apr. 2016 - Aug. 2018: Research Associate in MEMS [<b>University of Cambirdge</b>]
+  * Supervisor: [Prof. Ashwin Seshia](http://www.eng.cam.ac.uk/profiles/aas41)
   * Research focus: Resonant MEMS accelerometers, mode-localized MEMS accelerometers, low-noise front-end electronics, nonlinear dynamics
 
-* Apr. 2015 - Mar. 2016: Research Scientist, <b>Sharp Laboratories of Europe</b>, <i>Oxford, UK</i>
+
+* Apr. 2015 - Mar. 2016: Research Scientist [<b>Sharp Laboratories of Europe</b>]
   * Research focus: Acoustic MEMS devices, thin-film transistor (TFT) circuits
