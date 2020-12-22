@@ -21,7 +21,7 @@ I am currently an academic and researcher in the field of MEMS at [Center for Gr
 <!--Research interests-->
 <!---------->
 
-"If you want to find the secrets of the universe, think in terms of <b>energy</b>, <b>frequency</b> and <b>vibration</b>." ---<cite>Nikola Tesla</cite>
+> ">If you want to find the secrets of the universe, think in terms of <b>energy</b>, <b>frequency</b> and <b>vibration</b>." <br>---<cite>Nikola Tesla</cite>
 
 ![WordCould](/images/WordCould.png)  <br>
 ###### * Word cloud accurate as of December 2020.
