@@ -11,11 +11,16 @@ redirect_from:
 
 Research interests
 ======
-<p style="text-decoration:underline;"><a href="/modalinteractions.md">Research project 1: modal interactions</a></p>
+<!--<p style="text-decoration:underline;"><a href="/modalinteractions.md">Research project 1: modal interactions</a></p>
+-->
+* MEMS sensors
+* MEMS resonators
+* Modal interactions
+* Nonlinear dynamics
 
 Research grants
 ======
-* Jan. 2022 - Dec. 2024: <b>Integrated high-precision resonant MEMS thermometers for MEMS gravimeters</b>, Co-I
+* Jan. 2022 - Dec. 2024: <b>Integrated high-precision resonant MEMS thermometers for MEMS gravimeters</b>, PI
   * National Natural Science Foundation of China
   * ¥240k (approx. £27k)
 
