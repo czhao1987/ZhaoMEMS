@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Chun Zhao"
-  avatar           : "BioPhoto.png"
+  avatar           : "BioPhoto.PNG"
   bio              : "Associate Professor<br>School of Physics<br>HUST, Wuhan<br>IEEE Senior Member"
-  location         : 
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=foRPjLoAAAAJ&hl=en"
