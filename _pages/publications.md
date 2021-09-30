@@ -112,87 +112,75 @@ author_profile: true
 
 * <b>2021</b>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9495528"> A Resonant Lorentz-Force Magnetometer Based On Cavity Slotted Double-Ended Tuning Fork to Enhance Q-Factor and Sensitivity. Xiaoxiao Song, Chen Wang, Chengxin Li, Fangzheng Li, Jingqian Xi, Yuan Wang, Huafeng Liu, <b>Chun Zhao</b>, Liang-Cheng Tu, Michael Kraft. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
+28\. <a href="https://ieeexplore.ieee.org/abstract/document/9495528"> A Resonant Lorentz-Force Magnetometer Based On Cavity Slotted Double-Ended Tuning Fork to Enhance Q-Factor and Sensitivity</a>. Xiaoxiao Song, Chen Wang, Chengxin Li, Fangzheng Li, Jingqian Xi, Yuan Wang, Huafeng Liu, <b>Chun Zhao</b>, Liang-Cheng Tu, Michael Kraft. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9495620"> A High-Sensitivity Mems Gravimeter without a Vacuum Chamber. XiaoChao Xu, Qian Wang, YanYan Fang, LuJia Yang, <b>Chun Zhao</b>, Fangjing Hu, Liangcheng Tu. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
+27\. <a href="https://ieeexplore.ieee.org/abstract/document/9495620"> A High-Sensitivity Mems Gravimeter without a Vacuum Chamber</a>. XiaoChao Xu, Qian Wang, YanYan Fang, LuJia Yang, <b>Chun Zhao</b>, Fangjing Hu, Liangcheng Tu. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9495639/"> A Mode-Localized Mems Accelerometer in the Modal Overlap Regime Employing Parametric Pump. Hemin Zhang, Madan Parajuli, Dongyang Chen, Jiangkun Sun, Ashwin A Seshia, Milind Pundit, Guillermo Sobreviela, <b>Chun Zhao</b>. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
+26\. <a href="https://ieeexplore.ieee.org/abstract/document/9495639/"> A Mode-Localized Mems Accelerometer in the Modal Overlap Regime Employing Parametric Pump</a>. Hemin Zhang, Madan Parajuli, Dongyang Chen, Jiangkun Sun, Ashwin A Seshia, Milind Pundit, Guillermo Sobreviela, <b>Chun Zhao</b>. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9430455"> A 10 ng/rtHz Resonant MEMS Accelerometer Employing Anti-aliasing Control. Milind Pandit, Guillermo Sobreviela, Callisto Pili, Philipp Steinmann, Douglas Young, <b>Chun Zhao</b>, Colin Baker, Ashwin Seshia. <i>2021 IEEE International Symposium on Inertial Sensors and Systems (INERTIAL)</i>. 2021.<br>
+25\. <a href="https://ieeexplore.ieee.org/abstract/document/9430455"> A 10 ng/rtHz Resonant MEMS Accelerometer Employing Anti-aliasing Control</a>. Milind Pandit, Guillermo Sobreviela, Callisto Pili, Philipp Steinmann, Douglas Young, <b>Chun Zhao</b>, Colin Baker, Ashwin Seshia. <i>2021 IEEE International Symposium on Inertial Sensors and Systems (INERTIAL)</i>. 2021.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9375204">On the Sensitivity of Mode-localized Accelerometers Operating in the Nonlinear Duffing Regime</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
+24\. <a href="https://ieeexplore.ieee.org/abstract/document/9375204">On the Sensitivity of Mode-localized Accelerometers Operating in the Nonlinear Duffing Regime</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9375431">A MEMS Vibrating Beam Accelerometer for High Resolution Seismometry and Gravimetry</a>. Guillermo Sobreviela-Falces, Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Callisto Pili, Colin Baker, Ashwin Seshia. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
+23\. <a href="https://ieeexplore.ieee.org/abstract/document/9375431">A MEMS Vibrating Beam Accelerometer for High Resolution Seismometry and Gravimetry</a>. Guillermo Sobreviela-Falces, Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Callisto Pili, Colin Baker, Ashwin Seshia. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9375348">A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation</a>. Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
+22\. <a href="https://ieeexplore.ieee.org/abstract/document/9375348">A New Scheme to Enhance/decrease Sensitivity of a MEMS Resonator Using Parametric Modulation</a>. Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, Liangcheng Tu. <i>The 34th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2021)</i>. 2021.<br>
 
 * <b>2020</b>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/9056267/">Ultra-Sensitive Force Transduction in Weakly Coupled Resonators</a>. Hemin Zhang, Milind Pandit, Jiangkun Sun, Dongyang Chen, Guillermo Sobreviela, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 33nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2020)</i>. 2020.<br>
+21\. <a href="https://ieeexplore.ieee.org/abstract/document/9056267/">Ultra-Sensitive Force Transduction in Weakly Coupled Resonators</a>. Hemin Zhang, Milind Pandit, Jiangkun Sun, Dongyang Chen, Guillermo Sobreviela, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 33nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2020)</i>. 2020.<br>
 
 * <b>2019</b>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/8808211/">An Ultra-High-Quality Factor Silicon Disk Resonator</a>. Guillermo Sobreviela, Xudong Zou, <b>Chun Zhao</b>, Milind Pandit, Ashwin Seshia. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
+20\. <a href="https://ieeexplore.ieee.org/abstract/document/8808211/">An Ultra-High-Quality Factor Silicon Disk Resonator</a>. Guillermo Sobreviela, Xudong Zou, <b>Chun Zhao</b>, Milind Pandit, Ashwin Seshia. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
 
-2. <a href="https://ieeexplore.ieee.org/abstract/document/8808225/">A Novel Qcm Mass Sensing System Incorporated with A 3-Dof Mode Localized Coupled Resonator Stiffness Sensor</a>. Yuan Wang, Chen Wang, <b>Chun Zhao</b>, Huafeng Liu, Delphine Cerica, Mathieu Baijot, François Dupont, Serguei Stoukatch, Michael Kraft. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
+19\. <a href="https://ieeexplore.ieee.org/abstract/document/8808225/">A Novel Qcm Mass Sensing System Incorporated with A 3-Dof Mode Localized Coupled Resonator Stiffness Sensor</a>. Yuan Wang, Chen Wang, <b>Chun Zhao</b>, Huafeng Liu, Delphine Cerica, Mathieu Baijot, François Dupont, Serguei Stoukatch, Michael Kraft. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
 
-3. <a href="https://ieeexplore.ieee.org/abstract/document/8808572/">Seismic Recording Using A Mode Localized MEMS Accelerometer</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Ashwin A Seshia. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
+18\. <a href="https://ieeexplore.ieee.org/abstract/document/8808572/">Seismic Recording Using A Mode Localized MEMS Accelerometer</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Ashwin A Seshia. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
 
-1. <a href="https://ieeexplore.ieee.org/abstract/document/8870734">An Ultra-high Resolution Resonant MEMS Accelerometer</a>. Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, Ashwin Seshia. <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.<br>
+17\. <a href="https://ieeexplore.ieee.org/abstract/document/8870734">An Ultra-high Resolution Resonant MEMS Accelerometer</a>. Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, Ashwin Seshia. <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.<br>
 
 * <b>2018</b>
 
-4. <a href="https://ieeexplore.ieee.org/abstract/document/8589869/">Immunity to Temperature Fluctuations in Weakly Coupled MEMS Resonators</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin A Seshia. <i>IEEE SENSORS Conference 2018</i>. 2018.<br>
+16\. <a href="https://ieeexplore.ieee.org/abstract/document/8589869/">Immunity to Temperature Fluctuations in Weakly Coupled MEMS Resonators</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin A Seshia. <i>IEEE SENSORS Conference 2018</i>. 2018.<br>
 
-2. <a href="https://ieeexplore.ieee.org/abstract/document/8597571/">Coupled Nonlinear MEMS Resonators for Sensing</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Ashwin A Seshia. <i>IEEE International Frequency Control Symposium (IFCS 2018)</i>. 2018.<br>
+15\. <a href="https://ieeexplore.ieee.org/abstract/document/8597571/">Coupled Nonlinear MEMS Resonators for Sensing</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Ashwin A Seshia. <i>IEEE International Frequency Control Symposium (IFCS 2018)</i>. 2018.<br>
 
-3. <a href="https://ieeexplore.ieee.org/abstract/document/8597490/">A Resonant MEMS Accelerometer Utilizing AC Polarization</a>. <b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE International Frequency Control Symposium (IFCS 2018)</i>. 2018.<br>
+14\. <a href="https://ieeexplore.ieee.org/abstract/document/8597490/">A Resonant MEMS Accelerometer Utilizing AC Polarization</a>. <b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE International Frequency Control Symposium (IFCS 2018)</i>. 2018.<br>
 
-5. <a href="https://ieeexplore.ieee.org/abstract/document/8597440/">A Direct Feedback Oscillator Topology Employing Weakly Coupled Resonators for Gain Control</a>. <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE International Frequency Control Symposium (IFCS 2018)</i>. 2018.<br>
+13\. <a href="https://ieeexplore.ieee.org/abstract/document/8597440/">A Direct Feedback Oscillator Topology Employing Weakly Coupled Resonators for Gain Control</a>. <b>Chun Zhao</b>, Milind Pandit, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE International Frequency Control Symposium (IFCS 2018)</i>. 2018.<br>
 
-6. <a href="https://ieeexplore.ieee.org/abstract/document/8346719/">A Mode-localized MEMS Accelerometer with 7μg Bias Stability</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Xudong Zou, Ashwin A Seshia. <i>The 31nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2018)</i>. 2018.<br>
+12\. <a href="https://ieeexplore.ieee.org/abstract/document/8346719/">A Mode-localized MEMS Accelerometer with 7μg Bias Stability</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Xudong Zou, Ashwin A Seshia. <i>The 31nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2018)</i>. 2018.<br>
 
 * <b>2017</b>
 
-7. <a href="https://ieeexplore.ieee.org/abstract/document/8233868/">Reduction of Amplitude Ratio Dependence on Drive Level in Mode-localized Resonant MEMS Sensors</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Ashwin A Seshia. <i>IEEE SENSORS Conference 2017</i>. 2017.<br>
+11\. <a href="https://ieeexplore.ieee.org/abstract/document/8233868/">Reduction of Amplitude Ratio Dependence on Drive Level in Mode-localized Resonant MEMS Sensors</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Ashwin A Seshia. <i>IEEE SENSORS Conference 2017</i>. 2017.<br>
 
-8. <a href="https://www.mdpi.com/2504-3900/1/4/493">A Reversible Method to Characterize the Mass Sensitivity of a 3-Dof Mode Localized Coupled Resonator under Atmospheric Pressure</a>. Yuan Wang, <b>Chun Zhao</b>, Chen Wang, Delphine Cerica, Mathieu Baijot, Vinayak Pachkawade, Ali Ghorbani, Maxime Boutier, Alain Vanderplasschen, Michael Kraft. <i>EUROSENSORS 2017</i>. 2017.<br>
+10\. <a href="https://www.mdpi.com/2504-3900/1/4/493">A Reversible Method to Characterize the Mass Sensitivity of a 3-Dof Mode Localized Coupled Resonator under Atmospheric Pressure</a>. Yuan Wang, <b>Chun Zhao</b>, Chen Wang, Delphine Cerica, Mathieu Baijot, Vinayak Pachkawade, Ali Ghorbani, Maxime Boutier, Alain Vanderplasschen, Michael Kraft. <i>EUROSENSORS 2017</i>. 2017.<br>
 
-3. <a href="https://ieeexplore.ieee.org/abstract/document/8088787/">Nonlinear Cancellation in Weakly Coupled MEMS Resonators</a>. Milind Pandit, <b>Chun Zhao</b>, Aref Mustafazade, Guillermo Sobreviela, Ashwin A Seshia. <i>2017 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS 2017)</i>. 2017.<br>
+9\. <a href="https://ieeexplore.ieee.org/abstract/document/8088787/">Nonlinear Cancellation in Weakly Coupled MEMS Resonators</a>. Milind Pandit, <b>Chun Zhao</b>, Aref Mustafazade, Guillermo Sobreviela, Ashwin A Seshia. <i>2017 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS 2017)</i>. 2017.<br>
 
-9. <a href="https://ieeexplore.ieee.org/abstract/document/8088944/">Closed-loop Tracking of Amplitude and Frequency in a Mode-localized Resonant MEMS Sensor</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Aref Mustafazade, Ashwin A Seshia. <i>2017 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS 2017)</i>. 2017.<br>
+8\. <a href="https://ieeexplore.ieee.org/abstract/document/8088944/">Closed-loop Tracking of Amplitude and Frequency in a Mode-localized Resonant MEMS Sensor</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Aref Mustafazade, Ashwin A Seshia. <i>2017 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS 2017)</i>. 2017.<br>
 
-2. <a href="https://ieeexplore.ieee.org/abstract/document/7994509/">Edge-anchored Mode-matched Micromachined Gyroscopic Disk Resonator</a>. Xudong Zou, <b>Chun Zhao</b>, Ashwin A Seshia. <i>19th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS 2017)</i>. 2017.<br>
+7\. <a href="https://ieeexplore.ieee.org/abstract/document/7994509/">Edge-anchored Mode-matched Micromachined Gyroscopic Disk Resonator</a>. Xudong Zou, <b>Chun Zhao</b>, Ashwin A Seshia. <i>19th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS 2017)</i>. 2017.<br>
 
-4. <a href="https://ieeexplore.ieee.org/abstract/document/7863609/">Enhanced Frequency Stability in a Non-linear MEMS Oscillator Employing Phase Feedback</a>. Boqian Sun, <b>Chun Zhao</b>, Guillermo Sobreviela-Falces, Sijun Du, Fengtian Han, Xudong Zou, Ashwin Seshia. <i>The 30th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2017)</i>. 2017.<br>
+6\. <a href="https://ieeexplore.ieee.org/abstract/document/7863609/">Enhanced Frequency Stability in a Non-linear MEMS Oscillator Employing Phase Feedback</a>. Boqian Sun, <b>Chun Zhao</b>, Guillermo Sobreviela-Falces, Sijun Du, Fengtian Han, Xudong Zou, Ashwin Seshia. <i>The 30th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2017)</i>. 2017.<br>
 
+* <b>2015</b>
 
+5\. <a href="https://ieeexplore.ieee.org/abstract/document/7370338/">Sensor Based on the Mode-localization Effect in Electrostatically-coupled MEMS Resonators Fabricated Using an SOI Process</a>. Graham Wood, <b>Chun Zhao</b>, Ibrahim Sari, Suan Hui Pu, Michael Kraft. <i>IEEE SENSORS Conference 2015</i>. 2015.<br>
 
+4\. <a href="https://www.sciencedirect.com/science/article/pii/S1877705815024297">A Feasibility Study for a Self-oscillating Loop for a Three Degree-of-Freedom Coupled MEMS Resonator Force Sensor</a>. <b>Chun Zhao</b>, Graham Wood, Suan Hui Pu, Michael Kraft. <i>EUROSENSORS 2015</i>. 2015.<br>
 
+3\. <a href="https://ieeexplore.ieee.org/abstract/document/7181396/">Comparative Study of Different Output Metrics for a Three Weakly Coupled Resonator Sensor</a>. <b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft. <i>18th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS 2015)</i>. 2015.<br>
 
+2\. <a href="https://ieeexplore.ieee.org/abstract/document/7181140">Atmospheric Pressure Mode Localization Coupled Resonators Force Sensor</a>. Mohammad Montaseri, Jianbing Xie, Honglong Chang, <b>Chun Zhao</b>, Graham Wood, Michael Kraft. <i>18th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS 2015)</i>. 2015.<br>
 
-
-
-
-
-
-
-
-
-
-  10. <a href="https://ieeexplore.ieee.org/abstract/document/7370338/">Sensor Based on the Mode-localization Effect in Electrostatically-coupled MEMS Resonators Fabricated Using an SOI Process</a>. Graham Wood, <b>Chun Zhao</b>, Ibrahim Sari, Suan Hui Pu, Michael Kraft. <i>IEEE SENSORS Conference 2015</i>. 2015.<br>
-
-  11. <a href="https://www.sciencedirect.com/science/article/pii/S1877705815024297">A Feasibility Study for a Self-oscillating Loop for a Three Degree-of-Freedom Coupled MEMS Resonator Force Sensor</a>. <b>Chun Zhao</b>, Graham Wood, Suan Hui Pu, Michael Kraft. <i>EUROSENSORS 2015</i>. 2015.<br>
-
-  12. <a href="https://ieeexplore.ieee.org/abstract/document/7181396/">Comparative Study of Different Output Metrics for a Three Weakly Coupled Resonator Sensor</a>. <b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft. <i>18th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS 2015)</i>. 2015.<br>
-
-  13. <a href="https://ieeexplore.ieee.org/abstract/document/7181140">Atmospheric Pressure Mode Localization Coupled Resonators Force Sensor</a>. Mohammad Montaseri, Jianbing Xie, Honglong Chang, <b>Chun Zhao</b>, Graham Wood, Michael Kraft. <i>18th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS 2015)</i>. 2015.<br>
-
-  14. <a href="https://ieeexplore.ieee.org/abstract/document/7051100/">A Sensor for Stiffness Change Sensing Based on Three Weakly Coupled Resonators with Enhanced Sensitivity</a>. <b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Harold Chong, Michael Kraft. <i>28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2015)</i>. 2015.<br>
+1\. <a href="https://ieeexplore.ieee.org/abstract/document/7051100/">A Sensor for Stiffness Change Sensing Based on Three Weakly Coupled Resonators with Enhanced Sensitivity</a>. <b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Harold Chong, Michael Kraft. <i>28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2015)</i>. 2015.<br>
 
 ## Book chapters
 
-  1. <a href="https://link.springer.com/chapter/10.1007/978-981-13-3247-0_2">Micro-electrometer Based on Mode-Localization Effect</a>. <b>Chun Zhao</b>, Huafeng Liu, Peiyi Song, Fangjing Hu. <i>Micro and Nano Machined Electrometers, Springer</i>. 2020.<br>
+1. <a href="https://link.springer.com/chapter/10.1007/978-981-13-3247-0_2">Micro-electrometer Based on Mode-Localization Effect</a>. <b>Chun Zhao</b>, Huafeng Liu, Peiyi Song, Fangjing Hu. <i>Micro and Nano Machined Electrometers, Springer</i>. 2020.<br>
 
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
 Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
