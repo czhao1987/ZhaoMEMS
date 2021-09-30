@@ -30,7 +30,7 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 
 ### Journal 2020
 
-<a href="#top">(<sub><sup>Back to top</sup></sub>)</a>
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 36\. <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019296"> Amplitude-modulated Resonant Accelerometer Employing Parametric Pump</a>. Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>Applied Physics Letters</i>. 2020.<br>
 
