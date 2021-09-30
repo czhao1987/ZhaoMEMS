@@ -7,6 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
-# Postgraduate opportunities
+# Prospective opportunities
 
-You are more than welcome to contact Dr. Chun Zhao on: [chun_zhao@hust.edu.cn](mailto:chun_zhao@hust.edu.cn) or [chun.zhao@cantab.net](mailto:chun.zhao@cantab.net) for more information regarding to postgraduate opportunities.
+Interested candidates are more than welcome to contact Dr. Chun Zhao at:  
+
+<b>Email:</b> chun[dot]zhao[at]cantab.net
+
+for more information regarding to prospective opportunities.
+
+# Current openings
+
+<b>Coming soon!</b>
