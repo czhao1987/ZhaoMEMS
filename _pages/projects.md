@@ -22,7 +22,7 @@ Ongoing research projects
 
 * Jul. 2019 - Jun. 2022: <b>Nonlinear effects for high-performance silicon resonant sensors</b>, Co-I
   * Ministry of Science and Technology, China, 2018YFB2002301
-  * ¥2.44M (approx. €280k)  
+  * ¥2.44M (approx. £280k)  
 
 * Jan. 2019 - Dec. 2021: <b>High resolution resonant MEMS sensors</b>, PI
   * Start-up grant, HUST, 2019KFYXJJS157
