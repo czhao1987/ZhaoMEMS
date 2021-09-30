@@ -10,7 +10,9 @@ author_profile: true
 
 Check out my [journal publications](#journal-publications), [conference publications](#conference-publications), and [book chapters](#book-chapters)!
 
-## Journal publications [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019) [(2018)](#journal-2018) [(2017)](#journal-2017) [(2016)](#journal-2016) [(2015)](#journal-2015)
+## Journal publications
+
+By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019) [(2018)](#journal-2018) [(2017)](#journal-2017) [(2016)](#journal-2016) [(2015)](#journal-2015)
 
 ### Journal 2021
 
@@ -27,6 +29,8 @@ Check out my [journal publications](#journal-publications), [conference publicat
 37\. <a href="https://ieeexplore.ieee.org/abstract/document/9326368"> Towards a Hybrid Mass Sensing System by Combining a QCM Mass Sensor With a 3-DOF Mode Localized Coupled Resonator Stiffness Sensor</a>. Yuan Wang, Huafeng Liu, Chen Wang, <b>Chun Zhao</b>, Jean-Michel Redouté, Serguei Stoukatch, Qijun Xiao, Liangcheng Tu, Michael Kraft. <i>IEEE Sensors Journal</i>. 2021.<br>
 
 ### Journal 2020
+
+<a href="#top">(<sub><sup>Back to top</sup></sub>)</a>
 
 36\. <a href="https://aip.scitation.org/doi/abs/10.1063/5.0019296"> Amplitude-modulated Resonant Accelerometer Employing Parametric Pump</a>. Hemin Zhang, Dongyang Chen, Milind Pandit, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin Seshia. <i>Applied Physics Letters</i>. 2020.<br>
 
@@ -110,11 +114,11 @@ Check out my [journal publications](#journal-publications), [conference publicat
 
 1\. <a href="https://www.sciencedirect.com/science/article/pii/S0924424715300078">A Force Sensor Based on Three Weakly Coupled Resonators with Ultrahigh Sensitivity</a>. <b>Chun Zhao</b>, Graham S Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft. <i>Sensors and Actuators A: Physical</i>. 2015.<br>
 
-## Conference publications [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#conference-2019) [(2018)](#conference-2018) [(2017)](#conference-2017) [(2015)](#conference-2015)
+## Conference publications
+
+By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#conference-2019) [(2018)](#conference-2018) [(2017)](#conference-2017) [(2015)](#conference-2015)
 
 ### Conference 2021
-
-* <b>2021</b>
 
 28\. <a href="https://ieeexplore.ieee.org/abstract/document/9495528"> A Resonant Lorentz-Force Magnetometer Based On Cavity Slotted Double-Ended Tuning Fork to Enhance Q-Factor and Sensitivity</a>. Xiaoxiao Song, Chen Wang, Chengxin Li, Fangzheng Li, Jingqian Xi, Yuan Wang, Huafeng Liu, <b>Chun Zhao</b>, Liang-Cheng Tu, Michael Kraft. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
 

@@ -13,7 +13,7 @@ Research interests
 ======
 <!--<p style="text-decoration:underline;"><a href="/modalinteractions.md">Research project 1: modal interactions</a></p>
 -->
-* MEMS sensors [Recent progress](#mems-sensors)
+* MEMS sensors [(recent progress)](#mems-sensors)
 * MEMS resonators
 * Modal interactions
 * Nonlinear dynamics
