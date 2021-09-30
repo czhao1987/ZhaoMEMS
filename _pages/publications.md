@@ -50,6 +50,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 
 ### Journal 2019
 
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 28\. <a href="https://www.sciencedirect.com/science/article/pii/S0008622319307985">Wafer-scale Vertically Aligned Carbon Nanotubes for Broadband Terahertz Wave Absorption</a>. Leimeng Sun, Minmin Zhu, <b>Chun Zhao</b>, Peiyi Song, Yurong Wang, Dongyang Xiao, Huafeng Liu, Siu Hon Tsang, Edwin Hang Tong Teo, Fangjing Hu, Liangcheng Tu. <i>Carbon</i>. 2019.<br>
 
 27\. <a href="https://www.nature.com/articles/s41467-019-12796-0.pdf">Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators</a>. Xin Zhou, <b>Chun Zhao</b>, Dingbang Xiao, Jiangkun Sun, Guillermo Sobreviela, Dustin D Gerrard, Yunhan Chen, Ian Flader, Thomas W Kenny, Xuezhong Wu, Ashwin A Seshia. <i>Nature Communications</i>. 2019.<br>
@@ -76,6 +78,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 
 ### Journal 2018
 
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 16\. <a href="https://ieeexplore.ieee.org/abstract/document/8510830/">Closed-loop Characterization of Noise and Stability in a Mode-localized Resonant MEMS Sensor</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</i>. 2018.<br>
 
 15\. <a href="https://ieeexplore.ieee.org/abstract/document/8270670/">A Passive Design Scheme to Increase the Rectified Power of Piezoelectric Energy Harvesters</a>. Sijun Du, Yu Jia, <b>Chun Zhao</b>, Gehan A. J. Amaratunga, Ashwin A. Seshia. <i>IEEE Transactions on Industrial Electronics</i>. 2018.<br>
@@ -87,6 +91,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 12\. <a href="https://www.mdpi.com/2072-666X/9/1/25">Investigation on the Quality Factor Limit of the (111) Silicon Based Disk Resonator</a>. Xin Zhou, Dingbang Xiao, Qingsong Li, Qian Hu, Zhanqiang Hou, Kaixuan He, Zhihua Chen, <b>Chun Zhao</b>, Yulie Wu, Xuezhong Wu, Ashwin Seshia. <i>MDPI Micromachines</i>. 2018.<br>   
 
 ### Journal 2017
+
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 11\. <a href="https://ieeexplore.ieee.org/document/8091122">Experimental Observation of Noise Reduction in Weakly Coupled Nonlinear MEMS Resonators</a>. <b>Chun Zhao</b>, Guillermo Sobreviela, Milind Pandit, Sijun Du, Xudong Zou, Ashwin Seshia. <i>IEEE Journal of Microelectromechanical Systems</i>. 2017.<br>
 
@@ -100,6 +106,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 
 ### Journal 2016
 
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 6\. <a href="https://www.sciencedirect.com/science/article/pii/S0924424716303454">A Review on Coupled MEMS Resonators for Sensing Applications Utilizing Mode Localization</a>. <b>Chun Zhao</b>, Mohammad Montaseri, Graham Wood, Suan Hui Pu, Ashwin Seshia, Michael Kraft. <i>Sensors and Actuators A: Physical</i>. 2016.<br>
 
 5\. <a href="https://ieeexplore.ieee.org/abstract/document/7501557/">A Comparative Study of Output Metrics for an MEMS Resonant Sensor Consisting of Three Weakly Coupled Resonators</a>. <b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft. <i>IEEE Journal of Microelectromechanical Systems</i>. 2016.<br>
@@ -112,6 +120,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 
 ### Journal 2015
 
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 1\. <a href="https://www.sciencedirect.com/science/article/pii/S0924424715300078">A Force Sensor Based on Three Weakly Coupled Resonators with Ultrahigh Sensitivity</a>. <b>Chun Zhao</b>, Graham S Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Michael Kraft. <i>Sensors and Actuators A: Physical</i>. 2015.<br>
 
 ## Conference publications
@@ -119,6 +129,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#conference-2019) [(2018)](#conference-2018) [(2017)](#conference-2017) [(2015)](#conference-2015)
 
 ### Conference 2021
+
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 28\. <a href="https://ieeexplore.ieee.org/abstract/document/9495528"> A Resonant Lorentz-Force Magnetometer Based On Cavity Slotted Double-Ended Tuning Fork to Enhance Q-Factor and Sensitivity</a>. Xiaoxiao Song, Chen Wang, Chengxin Li, Fangzheng Li, Jingqian Xi, Yuan Wang, Huafeng Liu, <b>Chun Zhao</b>, Liang-Cheng Tu, Michael Kraft. <i>The 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</i>. 2021.<br>
 
@@ -136,9 +148,13 @@ By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#confere
 
 ### Conference 2020
 
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 21\. <a href="https://ieeexplore.ieee.org/abstract/document/9056267/">Ultra-Sensitive Force Transduction in Weakly Coupled Resonators</a>. Hemin Zhang, Milind Pandit, Jiangkun Sun, Dongyang Chen, Guillermo Sobreviela, <b>Chun Zhao</b>, Ashwin Seshia. <i>The 33nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2020)</i>. 2020.<br>
 
 ### Conference 2019
+
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 20\. <a href="https://ieeexplore.ieee.org/abstract/document/8808211/">An Ultra-High-Quality Factor Silicon Disk Resonator</a>. Guillermo Sobreviela, Xudong Zou, <b>Chun Zhao</b>, Milind Pandit, Ashwin Seshia. <i>The 20th International Conference on Solid-State Sensors, Actuators and Microsystems & Eurosensors XXXIII (TRANSDUCERS & EUROSENSORS XXXIII)</i>. 2019.<br>
 
@@ -149,6 +165,8 @@ By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#confere
 17\. <a href="https://ieeexplore.ieee.org/abstract/document/8870734">An Ultra-high Resolution Resonant MEMS Accelerometer</a>. Milind Pandit, Arif Mustafazade, <b>Chun Zhao</b>, Guillermo Sobreviela, Xudong Zou, Philipp Steinmann, Ashwin Seshia. <i>The 32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2019)</i>. 2019.<br>
 
 ### Conference 2018
+
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 16\. <a href="https://ieeexplore.ieee.org/abstract/document/8589869/">Immunity to Temperature Fluctuations in Weakly Coupled MEMS Resonators</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Ashwin A Seshia. <i>IEEE SENSORS Conference 2018</i>. 2018.<br>
 
@@ -161,6 +179,8 @@ By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#confere
 12\. <a href="https://ieeexplore.ieee.org/abstract/document/8346719/">A Mode-localized MEMS Accelerometer with 7μg Bias Stability</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Xudong Zou, Ashwin A Seshia. <i>The 31nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2018)</i>. 2018.<br>
 
 ### Conference 2017
+
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 11\. <a href="https://ieeexplore.ieee.org/abstract/document/8233868/">Reduction of Amplitude Ratio Dependence on Drive Level in Mode-localized Resonant MEMS Sensors</a>. Milind Pandit, <b>Chun Zhao</b>, Guillermo Sobreviela, Arif Mustafazade, Ashwin A Seshia. <i>IEEE SENSORS Conference 2017</i>. 2017.<br>
 
@@ -176,6 +196,8 @@ By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#confere
 
 ### Conference 2015
 
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 5\. <a href="https://ieeexplore.ieee.org/abstract/document/7370338/">Sensor Based on the Mode-localization Effect in Electrostatically-coupled MEMS Resonators Fabricated Using an SOI Process</a>. Graham Wood, <b>Chun Zhao</b>, Ibrahim Sari, Suan Hui Pu, Michael Kraft. <i>IEEE SENSORS Conference 2015</i>. 2015.<br>
 
 4\. <a href="https://www.sciencedirect.com/science/article/pii/S1877705815024297">A Feasibility Study for a Self-oscillating Loop for a Three Degree-of-Freedom Coupled MEMS Resonator Force Sensor</a>. <b>Chun Zhao</b>, Graham Wood, Suan Hui Pu, Michael Kraft. <i>EUROSENSORS 2015</i>. 2015.<br>
@@ -187,6 +209,8 @@ By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#confere
 1\. <a href="https://ieeexplore.ieee.org/abstract/document/7051100/">A Sensor for Stiffness Change Sensing Based on Three Weakly Coupled Resonators with Enhanced Sensitivity</a>. <b>Chun Zhao</b>, Graham Wood, Jianbing Xie, Honglong Chang, Suan Hui Pu, Harold Chong, Michael Kraft. <i>28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2015)</i>. 2015.<br>
 
 ## Book chapters
+
+<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 1. <a href="https://link.springer.com/chapter/10.1007/978-981-13-3247-0_2">Micro-electrometer Based on Mode-Localization Effect</a>. <b>Chun Zhao</b>, Huafeng Liu, Peiyi Song, Fangjing Hu. <i>Micro and Nano Machined Electrometers, Springer</i>. 2020.<br>
 
