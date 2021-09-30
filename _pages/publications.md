@@ -212,7 +212,7 @@ By year: [(2021)](#conference-2021) [(2020)](#conference-2020) [(2019)](#confere
 
 <a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
-1. <a href="https://link.springer.com/chapter/10.1007/978-981-13-3247-0_2">Micro-electrometer Based on Mode-Localization Effect</a>. <b>Chun Zhao</b>, Huafeng Liu, Peiyi Song, Fangjing Hu. <i>Micro and Nano Machined Electrometers, Springer</i>. 2020.<br>
+1\. <a href="https://link.springer.com/chapter/10.1007/978-981-13-3247-0_2">Micro-electrometer Based on Mode-Localization Effect</a>. <b>Chun Zhao</b>, Huafeng Liu, Peiyi Song, Fangjing Hu. <i>Micro and Nano Machined Electrometers, Springer</i>. 2020.<br>
 
 <!-- <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
 Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
