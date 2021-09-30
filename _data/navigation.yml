@@ -23,10 +23,10 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
-  - title: "Services"
+  - title: "Academic Activities"
     url: /services/
 
-  - title: "Opportunities"
+  - title: "Join Us"
     url: /Opportunities/
 
 #  - title: "Guide"
