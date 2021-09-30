@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research interests
+Recent progress on MEMS sensors
 ======
 <!--<p style="text-decoration:underline;"><a href="/modalinteractions.md">Research project 1: modal interactions</a></p>
 -->
-* MEMS sensors <a href="/modalinteractions.md">(Recent progress)</a>
-* MEMS resonators
-* Modal interactions
-* Nonlinear dynamics
