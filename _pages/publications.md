@@ -8,9 +8,9 @@ author_profile: true
 <details>
   <summary><b>Journal papers</b></summary>-->
 
-## Journal publications
+## Journal publications [2021](#2021)
 
-* <b>2021</b>
+### 2021
 
 42\. <a href="https://ieeexplore.ieee.org/abstract/document/9520397/"> On the Air Buoyancy Effect in MEMS-based Gravity Sensors for High Resolution Gravity Measurements</a>. Xiaochao Xu, Qian Wang, Ji’ao Tian, Lujia Yang, Yanyan Fang, Qiu Wang, <b>Chun Zhao</b>, Fangjing Hu, Liangcheng Tu. <i>IEEE Sensors Journal</i>. 2021.<br>
 
