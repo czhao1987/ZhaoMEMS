@@ -33,6 +33,7 @@ In (b), the equivalent coupled <a href="https://en.wikipedia.org/wiki/Effective_
 
 <br>
 <br>
+
 After introducing the coupling mechanisms, a very interesting phenomenon of <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X8890226X"> <b>mode localization</b></a> occurs. Essentially, the amplitude ratio between the two resonators will change with respect to an external stimulus, e.g. stress due to acceleration.
 
 * <b>Demonstration of mode localization</b>
@@ -59,7 +60,7 @@ As it turns out, the sensitivity of the sensors utilising this <b>mode localizat
 
 ### Modal interactions
 
-In addition to
+In addition to the interactions between two individual resonators, interactions between two modes within a single resonator exist.
 
 ## Nonlinear dynamics
 
