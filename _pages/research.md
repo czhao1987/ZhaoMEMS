@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research highlights
+Research overview
 ======
 
 I am extremely interested in developing future MEMS sensors for healthcare applications, autonomous vehicles, and environmental monitoring. For these applications, it is very important to achieve <i>high resolution</i> and <i>high sensitivity</i>, as they can help us saving lives (healthcare) and preserving the environment (environmental monitoring) by detecting abnormalities early.
