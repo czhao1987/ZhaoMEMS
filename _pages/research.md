@@ -81,4 +81,13 @@ More recently, we have discovered that the modal interactions or energy coupling
 
 Nonlinear effects are fascinating.
 
-<img align="left" src="/images/NonlinearDoubleHysteresis.PNG" height="500" width="400">
+<img align="left" src="/images/NonlinearDoubleHysteresis.PNG" height="727" width="911">
+
+Measured frequency response of coupled MEMS resonators described by 5th order nonlinear equations.
+###### * Image source: <a href="https://ieeexplore.ieee.org/abstract/document/8091122/"> Experimental Observation of Noise Reduction in Weakly Coupled Nonlinear MEMS Resonators</a>.
+
+
+In fact, nonlinear effects can be very useful. For instance, by operating MEMS resonators as a <a href="http://www.scholarpedia.org/article/Duffing_oscillator"> Duffing oscillator</a> (described by the <a href="https://en.wikipedia.org/wiki/Duffing_equation"> Duffing equation</a>), oscillator phase noise and amplitude noise can be effectively reduced. Therefore, we made prototype sensors employing this Duffing nonlinearity (see <a href="https://ieeexplore.ieee.org/abstract/document/8640054"> this journal paper</a> for more details).
+
+
+Interestingly, there are an ocean of nonlinear effects within MEMS structures (check out <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617586"> this fascinating book</a> by A. H. Nayfeh and D. T. Mook). There are still plenty of room for us to explore!
