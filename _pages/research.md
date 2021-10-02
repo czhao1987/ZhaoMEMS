@@ -21,14 +21,25 @@ However, we are hitting the bottleneck in improving both aspects in research. Co
 ### Structural interactions (Mode localization)
 
 The first thing we did is to link the unrelated arrays of individual <a href="https://en.wikipedia.org/wiki/Resonator"><b>resonators</b></a> through energy coupling mechanisms.
-<p align="center">
-<img src="/images/CoupledResonators.png" height="268" width="239">  
-</p>
-<br>
-###### * Image source: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>.
-###### ** Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
 
-After introducing the coupling mechanisms, a very interesting phenomena of  
+<img align="left" src="/images/CoupledResonators.png" height="268" width="239">
+
+<br>
+Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
+
+###### * Image source: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+After introducing the coupling mechanisms, a very interesting phenomenon of <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X8890226X"> <b>mode localization</b></a> occurs. Essentially, the amplitude ratio between the two resonators will change with respect to an external stimulus, e.g. stress due to acceleration. As it turns out, the sensitivity of the sensors utilising this <b>mode localization</b> effect can be significantly boosted by orders of magnitude. Consequently, the resolution of the sensors can also be significantly improved.
+
+### Modal interactions
+
+In addition to
 
 ## Nonlinear dynamics
 
