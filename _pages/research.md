@@ -22,7 +22,7 @@ However, we are hitting the bottleneck in improving both aspects in research. Co
 
 The first thing we did is to link the unrelated arrays of individual <a href="https://en.wikipedia.org/wiki/Resonator"><b>resonators</b></a> through energy coupling mechanisms.
 
-<img align="left" src="/images/CoupledResonators.png" height="268" width="239">
+<img align="left" src="/images/CoupledResonators.PNG" height="268" width="239">
 
 <br>
 Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
