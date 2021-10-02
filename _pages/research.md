@@ -67,6 +67,11 @@ In addition to the interactions between two individual resonators, interactions 
 The modal interactions between two modes within a ring resonator.
 ###### * Image source: <a href="https://www.nature.com/articles/s41467-019-12796-0.pdf"> Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators</a>.
 
+<br>
+<br>
+<br>
+<br>
 
+More recently, we have discovered that the modal interactions or energy coupling can be used to transfer sensitivity between the modes, thereby enhancing both the sensitivity and resolution of a sensor (see <a href="https://ieeexplore.ieee.org/abstract/document/9439932/"> this journal paper</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9375348/"> this conference paper</a> for more details).
 
 ## Nonlinear dynamics
