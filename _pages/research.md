@@ -83,7 +83,7 @@ Nonlinear effects are fascinating.
 
 <img align="left" src="/images/NonlinearDoubleHysteresis.PNG" height="727" width="911">
 
-Measured frequency response of coupled MEMS resonators described by 5th order nonlinear equations.
+See these beautiful frequency responses of coupled MEMS resonators described by 5th order nonlinear equations.
 ###### * Image source: <a href="https://ieeexplore.ieee.org/abstract/document/8091122/"> Experimental Observation of Noise Reduction in Weakly Coupled Nonlinear MEMS Resonators</a>.
 
 
