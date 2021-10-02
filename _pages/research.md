@@ -71,6 +71,9 @@ The modal interactions between two modes within a ring resonator.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 More recently, we have discovered that the modal interactions or energy coupling can be used to transfer sensitivity between the modes, thereby enhancing both the sensitivity and resolution of a sensor (see <a href="https://ieeexplore.ieee.org/abstract/document/9439932/"> this journal paper</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9375348/"> this conference paper</a> for more details).
 
