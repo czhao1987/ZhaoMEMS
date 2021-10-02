@@ -35,7 +35,7 @@ In (b), the equivalent coupled <a href="https://en.wikipedia.org/wiki/Effective_
 <br>
 After introducing the coupling mechanisms, a very interesting phenomenon of <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X8890226X"> <b>mode localization</b></a> occurs. Essentially, the amplitude ratio between the two resonators will change with respect to an external stimulus, e.g. stress due to acceleration.
 
-* Demonstration of mode localization
+* <b>Demonstration of mode localization</b>
 
 <img align="left" src="/images/InPhaseModeBalanced.gif" height="240" width="180">
 In-phase mode balanced case (before introducing external stimuli)
