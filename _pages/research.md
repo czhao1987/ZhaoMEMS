@@ -38,7 +38,7 @@ After introducing the coupling mechanisms, a very interesting phenomenon of <a h
 * <b>Demonstration of mode localization</b>
 
 <img align="left" src="/images/InPhaseModeBalanced.gif" height="240" width="180">
-In-phase mode balanced case (before introducing external stimuli)
+In-phase mode <i>balanced</i> case (before introducing external stimuli)
 <br>
 <br>
 <br>
@@ -47,7 +47,7 @@ In-phase mode balanced case (before introducing external stimuli)
 <br>
 
 <img align="left" src="/images/InPhaseModePerturbed.gif" height="240" width="180">
-In-phase mode perturbed case (after introducing external stimuli)
+In-phase mode <i>perturbed</i> case (after introducing external stimuli)
 
 You can clearly observe the amplitude ratio change between the two resonators.
 <br>
