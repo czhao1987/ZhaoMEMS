@@ -14,7 +14,7 @@ Research overview
 
 I am extremely interested in developing future MEMS sensors for healthcare applications, autonomous vehicles, and environmental monitoring. For these applications, it is very important to achieve <i>high resolution</i> and <i>high sensitivity</i>, as they can help us saving lives (healthcare) and preserving the environment (environmental monitoring) by detecting abnormalities early.
 
-However, we are hitting the bottleneck in improving both aspects in research. Conventionally, we are focusing on only individual structures, or unrelated arrays of such individual structures. Also, nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability. Are these actually the key to a breakthrough? I would like to find out.
+However, we are hitting the bottleneck in improving both aspects in research. Conventionally, we are focusing on only individual structures/modes, or unrelated arrays of such individual structures. Also, it was thought that nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability. But more and more evidence show that structural/modal interactions and nonlinear effects could be the key to a breakthrough.
 
 ## Structural/modal interactions
 
