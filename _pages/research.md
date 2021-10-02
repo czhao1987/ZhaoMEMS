@@ -16,7 +16,9 @@ I am extremely interested in developing future MEMS sensors for healthcare appli
 
 However, we are hitting the bottleneck in improving both aspects in research. Conventionally, we are focusing on only individual structures, or unrelated arrays of such individual structures. Also, nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability. Are these actually the key to a breakthrough? I would like to find out.
 
-## Modal interactions
+## Structural/modal interactions
+
+#### Structural interactions (Mode localization)
 
 The first thing we did is to link the unrelated arrays of individual <a href="https://en.wikipedia.org/wiki/Resonator"><b>resonators</b></a> through energy coupling mechanisms.
 <p align="center">
@@ -25,6 +27,8 @@ The first thing we did is to link the unrelated arrays of individual <a href="ht
 <br>
 ###### * Image source: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>.
 ###### ** Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
+
+
 
 ## Nonlinear dynamics
 
