@@ -93,7 +93,8 @@ See these beautiful frequency responses of coupled MEMS resonators described by 
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 In fact, nonlinear effects can be very useful. For instance, by operating MEMS resonators as a <a href="http://www.scholarpedia.org/article/Duffing_oscillator"> Duffing oscillator</a> (described by the <a href="https://en.wikipedia.org/wiki/Duffing_equation"> Duffing equation</a>), oscillator phase noise and amplitude noise can be effectively reduced. Therefore, we made prototype sensors employing this Duffing nonlinearity (see <a href="https://ieeexplore.ieee.org/abstract/document/8640054"> this journal paper</a> for more details).
 
