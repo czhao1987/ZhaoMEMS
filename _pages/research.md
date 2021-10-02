@@ -35,6 +35,26 @@ In (b), the equivalent coupled <a href="https://en.wikipedia.org/wiki/Effective_
 
 After introducing the coupling mechanisms, a very interesting phenomenon of <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X8890226X"> <b>mode localization</b></a> occurs. Essentially, the amplitude ratio between the two resonators will change with respect to an external stimulus, e.g. stress due to acceleration. As it turns out, the sensitivity of the sensors utilising this <b>mode localization</b> effect can be significantly boosted by orders of magnitude. Consequently, the resolution of the sensors can also be significantly improved.
 
+<img align="left" src="/images/InPhaseModeBalanced.gif" height="160" width="120">
+In-phase mode balanced case (before introducing external stimuli)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="/images/InPhaseModePerturbed.gif" height="160" width="120">
+In-phase mode perturbed case (after introducing external stimuli)
+
+You can clearly observe the amplitude ratio change between the two resonators.
+<br>
+<br>
+<br>
+<br>
+
 ### Modal interactions
 
 In addition to
