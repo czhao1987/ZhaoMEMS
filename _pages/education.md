@@ -21,7 +21,6 @@ Experiences
 
 Education
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 * Jul. 2011 - Mar. 2015: Ph.D. ([<b>University of Southampton</b>](https://www.nano.ecs.soton.ac.uk/))
 <!--  * Supervisor: [Michael Kraft](https://www.esat.kuleuven.be/mns/mns_people/michael_kraft) (currently at KU Leuven)-->
@@ -34,7 +33,6 @@ Education
 
 Research interests
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 * Resonator-based sensors
   * Modal interactions
@@ -49,8 +47,6 @@ Research interests
 
 Statistics
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
-
 * <b>>9M RMB (>1M GBP)</b> funding as named academic investigator
 * <b>9</b> students supervised/mentored
   * Completed: 1 PhD & 4 Masters
@@ -62,7 +58,7 @@ Statistics
 
 Invited talks
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 
   * The 19th International Manufacturing Conference (IMCC 2021), Xi'an, China, October 2021 (<i>delayed</i>)
   * The 16th International Conference on Nano/Micro Engineered & Molecular Systems (IEEE NEMS 2021), Xiamen, China, April 2021
@@ -72,7 +68,6 @@ Invited talks
 
 Conference participations
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
   * IEEE MEMS Conference 2015, 2018, 2020, 2021
   * Transducers Conference 2015, 2019, 2021
@@ -82,7 +77,6 @@ Conference participations
 
 Invited journal reviewer
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
   * <i>Nature Scientific Reports</i>, 2020 -
   * <i>IEEE Transactions on Circuits and Systems I</i>, 2020 -
@@ -100,40 +94,34 @@ Invited journal reviewer
 
 Journal editor
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
 
   * Guest editor: <a href="https://www.mdpi.com/journal/symmetry/special_issues/Advances_Nonlinear_Dynamics_Coupling_Symmetric_Asymmetric_Microsystems"> Special Issue "Advances in Nonlinear Dynamics and Coupling in Symmetric/Asymmetric Microsystems"</a>, <a href="https://www.mdpi.com/journal/symmetry"> MDPI journal Symmetry</a>
 
 Invited grant reviewer
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
   * Czech Science Foundation, 2020
 
 External PhD examiner
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
   * Griffth University, Australia, 2019
 
 Invited conference reviewer
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
   * Micro and Nano Engineering Conference (MNE), 2021 -
   * International Conference of the Chinese Society of Micro-Nano Technology (CSMNT), 2019-
 
 Volunteering
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
-
 * IEEE CASS-EDS-SSCS Wuhan Joint Chapter
   * Secretary, 2021-
   * Volunteer, 2019-
 
 Interests
 ======
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
 * Huge fan of football (playing and watching)
 * Massive enthusiast and collector of board games
