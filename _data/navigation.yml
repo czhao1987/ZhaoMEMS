@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Background"
+  - title: "Biography"
     url: /education/
 
 #  - title: "Experiences"
@@ -9,8 +9,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 
   - title: "Publications"
     url: /publications/
@@ -23,8 +23,8 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
-  - title: "Academic Activities"
-    url: /services/
+#  - title: "Academic Activities"
+#    url: /services/
 
   - title: "Vacancies"
     url: /Opportunities/
