@@ -62,7 +62,7 @@ As it turns out, the sensitivity of the sensors utilising this <b>mode localizat
 
 In addition to the interactions between two individual resonators, interactions between two <a href="https://en.wikipedia.org/wiki/Vibration#Illustration_of_a_multiple_DOF_problem"> modes</a> within a single resonator exist.
 
-<img align="left" src="/images/Modalinteraction.PNG" height="250" width="200">
+<img align="left" src="/images/Modalinteraction.PNG" height="500" width="400">
 <br>
 The modal interactions between two modes within a ring resonator.
 ###### * Image source: <a href="https://www.nature.com/articles/s41467-019-12796-0.pdf"> Dynamic Modulation of Modal Coupling in Microelectromechanical Gyroscopic Ring Resonators</a>.
@@ -70,6 +70,3 @@ The modal interactions between two modes within a ring resonator.
 
 
 ## Nonlinear dynamics
-
-
-* <i>Low power consumption</i> can make the sensors operate for longer periods of time, without having to recharge or changing the batteries.
