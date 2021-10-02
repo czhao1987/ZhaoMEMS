@@ -48,6 +48,8 @@ Research interests
 Statistics
 ======
 * <b>>9M RMB (>1M GBP)</b> funding as named academic investigator
+  * PI: 2 projects
+  * Co-I: 2 projects
 * <b>9</b> students supervised/mentored
   * Completed: 1 PhD & 4 Masters
   * Ongoing: 2 PhD & 2 Masters

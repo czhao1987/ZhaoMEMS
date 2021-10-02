@@ -11,11 +11,22 @@ redirect_from:
 
 Research highlights
 ======
+
+I am extremely interested in developing future MEMS sensors for healthcare applications, autonomous vehicles, and environmental monitoring. For these applications, it is very important to achieve <i>high resolution</i> and <i>high sensitivity</i>, as they can help us saving lives (healthcare) and preserving the environment (environmental monitoring) by detecting abnormalities early.
+
+However, we are hitting the bottleneck in improving both aspects in research. Conventionally, we are focusing on only individual structures, or unrelated arrays of such individual structures. Also, nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability. Are these actually the key to a breakthrough? I would like to find out.
+
 ## Modal interactions
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
+The first thing we did is to link the unrelated arrays of individual <a href="https://en.wikipedia.org/wiki/Resonator"><b>resonators</b></a> through energy coupling mechanisms.
+<p align="center">
+<img src="/images/CoupledResonators.png" height="268" width="239">  
+</p>
+<br>
+###### * Image source: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>.
+###### ** Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
 
 ## Nonlinear dynamics
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
 
-## MEMS accelerometers
-<a href="#top"><sub><sup>(Back to top)</sup></sub></a>
+
+* <i>Low power consumption</i> can make the sensors operate for longer periods of time, without having to recharge or changing the batteries.
