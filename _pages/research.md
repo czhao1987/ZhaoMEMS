@@ -25,7 +25,9 @@ The first thing we did is to link the unrelated arrays of individual <a href="ht
 <img align="left" src="/images/CoupledResonators.PNG" height="268" width="239">
 
 <br>
-Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
+In (a), Res1 and Res2 are two individual resonators coupled together via CpB (coupling beam).
+
+In (b), the equivalent coupled <a href="https://en.wikipedia.org/wiki/Effective_mass_(spring%E2%80%93mass_system)">spring-mass model</a> of the coupled resonator structure.
 
 ###### * Image source: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.044005"> Towards High-resolution Inertial Sensors Employing Parametric Modulation in Coupled Micro-mechanical Resonators</a>.
 
