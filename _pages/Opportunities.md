@@ -17,6 +17,6 @@ for more information regarding to prospective opportunities.
 
 # Current openings
 
-I will be joining <a href="https://www.york.ac.uk/electronic-engineering/"> Department of Electronic Engineering, University of York, UK</a> in 2022. Please stay tuned for potential openings in my group.
+I will be joining <a href="https://www.york.ac.uk/electronic-engineering/"> Department of Electronic Engineering, University of York, UK</a> as a Lecturer in Microengineering in 2022. Please stay tuned for potential openings in my group.
 
 <b>Coming soon!</b>
