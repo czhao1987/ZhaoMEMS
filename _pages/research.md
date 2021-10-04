@@ -112,7 +112,9 @@ Interestingly, there are an ocean of nonlinear effects within MEMS structures (c
 
 In order to reduce the power consumption of sensor systems, <a href="https://en.wikipedia.org/wiki/Energy_harvesting">energy harvesters</a> are very efficient for this purpose, via harnessing ambient energy to support the miniature sensors.
 
-Previously, we have worked on piezoelectric vibration energy harvesters (check out <a href="https://www.sciencedirect.com/science/article/pii/S0924424717302194">this paper</a> as a starting point). I am very interested in continuing this research, and potentially expanding to other related energy harvesting approaches. Structural/modal interactions and nonlinear effects can be very useful in this part of research, too!
+Previously, we have worked on piezoelectric vibration energy harvesters (check out <a href="https://www.sciencedirect.com/science/article/pii/S0924424717302194">this paper</a> as a starting point). I am very interested in continuing this research, and potentially expanding to other related energy harvesting approaches.
+
+Structural/modal interactions and nonlinear effects can be very useful in this part of research, too!
 
 # FET-based Sensors & diode-based sensors
 
