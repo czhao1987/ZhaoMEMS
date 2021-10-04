@@ -12,9 +12,17 @@ redirect_from:
 Research overview
 ======
 
-I am extremely interested in developing future MEMS sensors for healthcare applications, autonomous vehicles, and environmental monitoring. For these applications, it is very important to achieve <i>high resolution</i> and <i>high sensitivity</i>, as they can help us saving lives (healthcare) and preserving the environment (environmental monitoring) by detecting abnormalities early.
+I am extremely interested in developing future micro-/nano-scale sensors for healthcare applications, autonomous vehicles, and environmental monitoring.
 
-However, we are hitting the bottleneck in improving both aspects in research. Conventionally, we are focusing on only individual structures/modes, or unrelated arrays of such individual structures. Also, it was thought that nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability. But more and more evidence show that structural/modal interactions and nonlinear effects could be the key to a breakthrough.
+For these applications, it is very important to achieve <i>high resolution</i> and <i>high sensitivity</i>, as they can help us saving lives (healthcare) and preserving the environment (environmental monitoring) by detecting abnormalities early.
+
+Meanwhile, it is also very important in realising <i>low power</i> sensor systems, for a more sustainable future.
+
+# MEMS sensors
+
+In MEMS sensor research, we are hitting a bottleneck in achieving <i>high resolution</i> and <i>high sensitivity</i>. Conventionally, we are focusing on only individual structures/modes, or unrelated arrays of such individual structures. Also, it was thought that nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability.
+
+However, our research show that we could make a breakthrough by making full use of structural/modal interactions and nonlinear effects. By mixing & matching a variety of interesting effects, we have successfully realised a series of MEMS sensors with high sensitivity and high resolution since 2017.
 
 ## Structural/modal interactions
 
@@ -98,5 +106,14 @@ See these beautiful frequency responses of coupled MEMS resonators described by 
 
 In fact, nonlinear effects can be very useful. For instance, by operating MEMS resonators as a <a href="http://www.scholarpedia.org/article/Duffing_oscillator"> Duffing oscillator</a> (described by the <a href="https://en.wikipedia.org/wiki/Duffing_equation"> Duffing equation</a>), oscillator phase noise and amplitude noise can be effectively reduced. Therefore, we made prototype sensors employing this Duffing nonlinearity (see <a href="https://ieeexplore.ieee.org/abstract/document/8640054"> this journal paper</a> for more details).
 
-
 Interestingly, there are an ocean of nonlinear effects within MEMS structures (check out <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617586"> this fascinating book</a> by A. H. Nayfeh and D. T. Mook). There are still plenty of room for us to explore!
+
+# Energy harvesters
+
+In order to reduce the power consumption of sensor systems, <a href="https://en.wikipedia.org/wiki/Energy_harvesting">energy harvesters</a> are very efficient for this purpose, via harnessing ambient energy to support the miniature sensors.
+
+Previously, we have worked on piezoelectric vibration energy harvesters (check out <a href="https://www.sciencedirect.com/science/article/pii/S0924424717302194">this paper</a> as a starting point). I am very interested in continuing this research, and potentially expanding to other related energy harvesting approaches. Structural/modal interactions and nonlinear effects can be very useful in this part of research, too!
+
+# FET-based Sensors & diode-based sensors
+
+I am also very interested in developing micro-/nano-scale sensors based on field-effect transistors (FET) (e.g. <a href="https://en.wikipedia.org/wiki/ISFET"> ISFET</a>) and diodes (e.g. <a href="https://en.wikipedia.org/wiki/Photodiode"> photodiode</a>) , for a variety of applications, such as biosensors. Check out our most recent <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.0c08075"> ACS Nano paper</a> in this area.
