@@ -53,8 +53,8 @@ Statistics
 * <b>9</b> students supervised/mentored
   * Completed: 1 PhD & 4 Masters
   * Ongoing: 2 PhD & 2 Masters
-* <b>70</b> peer-reviewed publications
-  * Journal: 42
+* <b>>70</b> peer-reviewed publications
+  * Journal: 43
   * Conference: 28
 * <b>11</b> patents filed
 

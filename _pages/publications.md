@@ -16,6 +16,8 @@ By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019)
 
 ### Journal 2021
 
+43\. <a href="https://ieeexplore.ieee.org/abstract/document/9552184/"> A Resonant Lorentz-Force Magnetometer Featuring Slotted Double-Ended Tuning Fork Capable of Operating in a Bias Magnetic Field</a>. Yuan Wang, Xiaoxiao Song, Fangzheng Li, Lu Gao, Chengxin Li, Jingqian Xi, Huafeng Liu, <b>Chun Zhao</b>, Chen Wang, Liang-Cheng Tu, Michael Kraft. <i>IEEE Journal of Microelectromechanical Systems</i>. 2021.<br>
+
 42\. <a href="https://ieeexplore.ieee.org/abstract/document/9520397/"> On the Air Buoyancy Effect in MEMS-based Gravity Sensors for High Resolution Gravity Measurements</a>. Xiaochao Xu, Qian Wang, Ji’ao Tian, Lujia Yang, Yanyan Fang, Qiu Wang, <b>Chun Zhao</b>, Fangjing Hu, Liangcheng Tu. <i>IEEE Sensors Journal</i>. 2021.<br>
 
 41\. <a href="https://ieeexplore.ieee.org/abstract/document/9439932"> On Enhancing the Sensitivity of Resonant Thermometers Based on Parametric Modulation</a>. Chengxin Li, Jingqian Xi, Yuan Wang, Fangzheng Li, Lu Gao, Huafeng Liu, <b>Chun Zhao</b>, LiangCheng Tu. <i>IEEE Journal of Microelectromechanical Systems</i>. 2021.<br>
