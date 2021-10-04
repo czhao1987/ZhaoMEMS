@@ -18,15 +18,15 @@ For these applications, it is very important to achieve <i>high resolution</i> a
 
 Meanwhile, it is also very important in realising <i>low power</i> sensor systems, for a more sustainable future.
 
-# MEMS sensors
+# I. MEMS sensors
 
 In MEMS sensor research, we are hitting a bottleneck in achieving <i>high resolution</i> and <i>high sensitivity</i>. Conventionally, we are focusing on only individual structures/modes, or unrelated arrays of such individual structures. Also, it was thought that nonlinear effects within MEMS structures are to be avoided, as nonlinear effects bring instability.
 
 However, our research show that we could make a breakthrough by making full use of structural/modal interactions and nonlinear effects. By mixing & matching a variety of interesting effects, we have successfully realised a series of MEMS sensors with high sensitivity and high resolution since 2017.
 
-## Structural/modal interactions
+## I.1 Structural/modal interactions
 
-### Structural interactions (Mode localization)
+### I.1.a Structural interactions (Mode localization)
 
 The first thing we did is to link the unrelated arrays of individual <a href="https://en.wikipedia.org/wiki/Resonator"><b>resonators</b></a> through energy coupling mechanisms.
 
@@ -66,7 +66,7 @@ You can clearly observe the amplitude ratio change between the two resonators.
 
 As it turns out, the sensitivity of the sensors utilising this <b>mode localization</b> effect can be significantly boosted by orders of magnitude. Consequently, the resolution of the sensors can also be significantly improved.
 
-### Modal interactions
+### I.1.b Modal interactions
 
 In addition to the interactions between two individual resonators, interactions between two <a href="https://en.wikipedia.org/wiki/Vibration#Illustration_of_a_multiple_DOF_problem"> modes</a> within a single resonator exist.
 
@@ -85,7 +85,7 @@ The modal interactions between two modes within a ring resonator.
 
 More recently, we have discovered that the modal interactions or energy coupling can be used to transfer sensitivity between the modes, thereby enhancing both the sensitivity and resolution of a sensor (see <a href="https://ieeexplore.ieee.org/abstract/document/9439932/"> this journal paper</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9375348/"> this conference paper</a> for more details).
 
-## Nonlinear dynamics
+## I.2 Nonlinear dynamics
 
 Nonlinear effects are fascinating.
 
@@ -108,7 +108,7 @@ In fact, nonlinear effects can be very useful. For instance, by operating MEMS r
 
 Interestingly, there are an ocean of nonlinear effects within MEMS structures (check out <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9783527617586"> this fascinating book</a> by A. H. Nayfeh and D. T. Mook). There are still plenty of room for us to explore!
 
-# Energy harvesters
+# II. Energy harvesters
 
 In order to reduce the power consumption of sensor systems, <a href="https://en.wikipedia.org/wiki/Energy_harvesting">energy harvesters</a> are very efficient for this purpose, via harnessing ambient energy to support the miniature sensors.
 
@@ -116,6 +116,6 @@ Previously, we have worked on piezoelectric vibration energy harvesters (check o
 
 Structural/modal interactions and nonlinear effects can be very useful in this part of research, too!
 
-# FET-based Sensors & diode-based sensors
+# III. FET-based Sensors & diode-based sensors
 
 I am also very interested in developing micro-/nano-scale sensors based on field-effect transistors (FET) (e.g. <a href="https://en.wikipedia.org/wiki/ISFET"> ISFET</a>) and diodes (e.g. <a href="https://en.wikipedia.org/wiki/Photodiode"> photodiode</a>) , for a variety of applications, such as biosensors. Check out our most recent <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.0c08075"> ACS Nano paper</a> in this area.
