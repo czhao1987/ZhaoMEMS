@@ -11,9 +11,12 @@ redirect_from:
 
 * Feb. 2022: Super excited on embarking on a new chapter of my career at the University of York, UK, on the first day of the Lunar New Year 2022 (Year of Tiger)!! Really grateful for all the great times share with my colleagues and students at Huazhong University of Science and Technology!
 
-<img align="center" src="/images/YorkMinster2022.jpg" width="240">
-<img align="center" src="/images/DepartmentOfElectronics.jpg" width="240">
+<img align="left" src="/images/YorkMinster2022.jpg" width="240">
+<img align="left" src="/images/DepartmentOfElectronics.jpg" width="240">
 
+<br>
+<br>
+<br>
 <br>
 <br>
 
