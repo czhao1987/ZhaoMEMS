@@ -29,5 +29,8 @@ main:
   - title: "Vacancies"
     url: /Opportunities/
 
+  - title: "News"
+    url: /News/    
+
 #  - title: "Guide"
 #    url: /markdown/

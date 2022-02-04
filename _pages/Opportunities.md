@@ -9,9 +9,9 @@ redirect_from:
 
 # Prospective opportunities
 
-Interested candidates are more than welcome to contact Dr. Chun Zhao at:  
+I have now officially moved to the University of York in the UK, and I am more than happy to hear from prospective students and researchers who are interested to join my group. Interested candidates are more than welcome to contact me at:  
 
-<b>Email:</b> chun[dot]zhao[at]cantab.net
+<b>Email:</b> chun[dot]zhao[at]york[dot]ac[dot]uk
 
 for more information regarding to prospective opportunities.
 
