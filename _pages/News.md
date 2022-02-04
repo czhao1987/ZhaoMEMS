@@ -15,6 +15,23 @@ redirect_from:
 <img align="left" src="/images/DepartmentOfElectronics.jpg" width="240">
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 * Jan. 2022: PhD candidate Jingqian Xi's paper titled: <b>"A MEMS Resonant Lorentz-force Magnetometer with Both Structural Topology Optimization and Parametric Pumping for Q-factor Enhancement"</b> was selected as an <b>"Outstanding Student Paper Award Finalist"</b> at the [35th IEEE International Conference on Micro-Electro-Mechanical Systems (MEMS) 2022](https://ieeemems2022.org). Well done!!
 
