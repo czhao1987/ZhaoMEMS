@@ -11,7 +11,9 @@ redirect_from:
 
 Experiences
 ======
-* Sep. 2018 - Present: Associate Professor ([<b>Huazhong University of Science and Technology</b>](http://english.hust.edu.cn/))
+* Feb. 2022 - Present: Lecturer in Microengineering ([<b>University of York</b>](https://www.york.ac.uk/electronic-engineering/))
+
+* Sep. 2018 - Dec. 2021: Associate Professor ([<b>Huazhong University of Science and Technology</b>](http://english.hust.edu.cn/))
 
 
 * Apr. 2016 - Aug. 2018: Research Associate in MEMS ([<b>University of Cambirdge</b>](https://www.nanoscience.cam.ac.uk/))
