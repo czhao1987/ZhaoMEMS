@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Chun Zhao"
   avatar           : "BioPhoto.PNG"
-  bio              : Lecturer in Microengineering\\Department of Electronics\\University of York
+  bio              : Lecturer in &mu-engineering
   location         : York, UK
-  employer         :
+  employer         : University of York
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=foRPjLoAAAAJ&hl=en"
   email            : "chun.zhao@york.ac.uk"
