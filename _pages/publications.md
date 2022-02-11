@@ -12,7 +12,12 @@ Check out my [journal publications](#journal-publications), [conference publicat
 
 ## Journal publications
 
-By year: [(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019) [(2018)](#journal-2018) [(2017)](#journal-2017) [(2016)](#journal-2016) [(2015)](#journal-2015)
+By year: [(2022)](#journal-2022)
+[(2021)](#journal-2021) [(2020)](#journal-2020) [(2019)](#journal-2019) [(2018)](#journal-2018) [(2017)](#journal-2017) [(2016)](#journal-2016) [(2015)](#journal-2015)
+
+### Journal 2022
+
+44\. <a href="https://ieeexplore.ieee.org/abstract/document/9552184/"> Mode-localized Accelerometer in the Nonlinear Duffing Regime with 75 ng Bias Instability and 95 ng/Hz<sup>1/2</sup> Noise Floor</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin A. Seshia. <i>Microsystems & Nanoengineering</i>. 2022.<br>
 
 ### Journal 2021
 
