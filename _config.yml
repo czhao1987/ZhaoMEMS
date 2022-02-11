@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CN"
-title                    : "Chun Zhao / MEMS"
+title                    : "Chun Zhao / Pure MEMS Lab"
 title_separator          : "-"
 name                     : &name "Chun Zhao"
 description              : &description "Researcher in the field of Micro-electro-mechanical Systems"
