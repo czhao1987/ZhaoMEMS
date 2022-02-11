@@ -17,7 +17,7 @@ By year: [(2022)](#journal-2022)
 
 ### Journal 2022
 
-44\. <a href="https://ieeexplore.ieee.org/abstract/document/9552184/"> Mode-localized Accelerometer in the Nonlinear Duffing Regime with 75 ng Bias Instability and 95 ng/Hz<sup>1/2</sup> Noise Floor</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin A. Seshia. <i>Microsystems & Nanoengineering</i>. 2022.<br>
+44\. <a href="https://www.nature.com/articles/s41378-021-00340-4"> Mode-localized Accelerometer in the Nonlinear Duffing Regime with 75 ng Bias Instability and 95 ng/Hz<sup>1/2</sup> Noise Floor</a>. Hemin Zhang, Milind Pandit, Guillermo Sobreviela, Madan Parajuli, Dongyang Chen, Jiangkun Sun, <b>Chun Zhao</b>, Ashwin A. Seshia. <i>Microsystems & Nanoengineering</i>. 2022.<br>
 
 ### Journal 2021
 
